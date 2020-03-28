@@ -1,3 +1,8 @@
+## Blog Posts
+
+- [One](https://github.com/amblount/amblount.github.io/blob/master/reinforcementlearning.md)
+- [Two](https://github.com/amblount/amblount.github.io/blob/master/onlinementors.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/amblount/amblount.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
