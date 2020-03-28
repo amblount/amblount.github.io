@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome to Alivia Blount's Blog
+## The current year is 2020 and we are in quanrantine.
+### I write about reinforcement learning and metalearning here.
 
 - Bulleted
 - List
