@@ -29,7 +29,7 @@ twitter_username: aliviablount
 github_username:  amblount
 
 # Build settings
-theme: Webjeda Karna
+theme: minima
 plugins:
   - jekyll-feed
 
