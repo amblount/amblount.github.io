@@ -21,6 +21,7 @@
 - Pocket Board - Financial portfolio stock analysis tool with a swipe selection user experience. [Link](https://www.youtube.com/watch?v=8QUZFZloCFM&t=1s)
 - Research To The People - Epithelioid Sarcoma patient technical report co-author. [Link](https://www.researchtothepeople.org/epithelioid-sarcoma-event)
 
+* * *
 
 #### Work Experience
 
@@ -32,6 +33,7 @@
 | Facebook |Technical Program Manager| Developer Programs   | 2018  |
 | Universal Music Group           | Entrepreneur in Residence| Data Products     | 2018  |
 
+* * *
 
 #### Software Engineering Internships
 
@@ -43,6 +45,8 @@
 | Acorns | Data Science Intern   | 2018  |
 | Intuit          | Machine Learning Analytics Intern     | 2017   |
 | Intel          | Software Engineering Intern | 2017  |
+
+* * *
 
 #### Fellowships
 
