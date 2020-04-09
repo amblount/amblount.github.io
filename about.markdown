@@ -5,7 +5,7 @@
 * * *
 
 
-#### PROJECTS
+#### Projects
 
 * * *
 
