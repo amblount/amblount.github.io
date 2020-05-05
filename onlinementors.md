@@ -11,7 +11,6 @@ I have been interested in research for a while and instead of having one formal 
 #### Meta-Learning
   - Jurgen Schmidhuber @schmidhuberAI
   - Emma Brunskill @emmabrunskill
-  - 
 
 #### Open-Endedness
   - Kenneth Stanley @kenneth0stanley
@@ -47,10 +46,7 @@ I have been interested in research for a while and instead of having one formal 
 
 #### Audio Processing
   - Jesse Engel @jesseengel
-  - 
-  -
  
-
 #### Data Science
   - Chris Albon @chrisalbon
   - Chris Wiggins @chrishwiggins
@@ -62,13 +58,9 @@ I have been interested in research for a while and instead of having one formal 
 
 #### Law
   - Bari A. Williams @bariawilliams
-  - 
-  -
 
 #### Entrepreneurship
   - Sam Altman @sama
-  - 
-  -
 
 #### Artificial Intelligence Policy
   - Jack Clark @jackclarksf
