@@ -52,6 +52,6 @@ that continually invent both problems and solutions.
     - Confirms that the resultant new algorithms, NS-ES and a version of QD-ES called NSR-ES, avoid local optima encountered by ES to achieve higher performance on tasks ranging from simulated robots learning to walk around a deceptive trap to the high-dimensional pixel-to-action task of playing Atari games.
     - Adds this new family of population-based exploration algorithms to the deep RL toolbox.
 
-4. Go-Explore
+4. [Go-Explore](https://www.youtube.com/watch?v=SWcuTgk2di8): A New Approach for Hard Exploration Problems  | [Paper](https://arxiv.org/abs/1901.10995)
 
-5. Generative Teaching Networks
+5. [Generative Teaching Networks](https://eng.uber.com/generative-teaching-networks/) | [Video Explanation](https://www.youtube.com/watch?v=lmnJfLjDVrI)
