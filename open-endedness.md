@@ -11,6 +11,10 @@ depth.
 A link to the [shownotes](https://thedataexchange.media/algorithms-that-continually-invent-both-problems-and-solutions/) - Episode: Algorithms
 that continually invent both problems and solutions.
 
+Kenneth Stanley in this interview mentioned that he is starting a new research group @ Open AI focused on open-endedness and he is recruiting people with diverse background in neuroevolution, evolutionary algorithms and a solid knowledge base of machine learning and deep learning.
+
+A brief history on neuroevolution, it stems from the evolution of the brain and it's development over time. Human intellect has developed over time not by planning every stage but through observing the environment and adapting to it. Although this seems like a brand new science it is actually complementary to training a neural network through stochastic gradient descent and this can be thought of as a way to improve the current state of the art (SOTA) approach we have to structuring reinforcement learning problems. 
+
 5 Pieces of Prior work which contributed
 
 1. POET [Paired Open-Ended Trailblazer: Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutiona](https://arxiv.org/abs/1901.01753) | [Jeff Video Explanation](https://www.youtube.com/watch?v=CsizpWJ-nD0&t=23s) | [Video Explanation](https://www.youtube.com/watch?v=8wkgDnNxiVs)
