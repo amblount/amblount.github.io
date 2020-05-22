@@ -4,6 +4,8 @@ I am thinking about building a fashion application using GANs, so I have been re
 
 - [Everybody Dance Now](https://arxiv.org/abs/1808.07371)
 - [Interactive Video Stylization Using Few-Shot Patch Based Training](https://ondrejtexler.github.io/patch-based_training/)
+- [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High- Resolution 3D Human Digitization](https://ai.facebook.com/research/publications/pifuhd-multi-level-pixel-aligned-implicit-function-for-high-resolution-3d-human-digitization/)
+- [VIBE - Dressing for diverse body shapes](https://ai.facebook.com/research/publications/vibe-dressing-for-diverse-body-shapes/)
 
 ### Code Bases
 
