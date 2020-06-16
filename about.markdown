@@ -4,6 +4,23 @@
 
 * * *
 
+#### Technical Talks + Workshops + Competitions
+
+- New York University (NYU) Start-Up Pitch Competition Team Winner [Bloc] - 2020
+- Research To The People - Epitheliod Sarcoma Technical Report Co-Author, Stanford Medical Center - 2020
+- Algorithmic Fairness + Bias in AI (8-hour) workshop - Agile Testing Conference, Chicago IL - 2019
+- Reinforcement Learning to Understand Society, Invited Speaker - Agile Testing Conference, Chicago IL - 2019
+- Imposter Syndrom Presentation - Black Woman In the Valley, Microsoft Corporation, Redmonda, WA - 2019
+- Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration, - Salesforce, San Francisco, CA - 2018
+- Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration, - Intuit, Mountain View, CA - 2018
+- Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration, - SigOpt, San Francisco, CA - 2018
+- Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration, - Insight Data Science, San Francisco, CA - 2018
+- Dataflow + GCP Cloud Tools, New York Times, Manhattan, NY - 2018
+- Shorter Experience [AR/VR], Capitol Music Group, Los Angeles, CA - 2018
+- Contextual Music Search - Audio Processing, SXSW Austin, Texas - 2018
+- Data Science @ Facebook, Invited Speaker, Tunis, Tunisia - 2018
+- Developer Programs, Content Management System Product Overview, Facebook, Menlo Park, CA - 2018
+- 
 
 #### Projects
 
