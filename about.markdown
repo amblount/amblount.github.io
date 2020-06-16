@@ -16,7 +16,7 @@
 |Imposter Syndrom Presentation - Black Woman In the Valley |Microsoft Corporation |Redmonda, WA | 2019 |
 |Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | Salesforce | San Francisco, CA | 2018 |
 |Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | Intuit | Mountain View, CA | 2018 |
-|Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | SigOpt, San Francisco | CA | 2018 |
+|Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | SigOpt | San Francisco, CA | 2018 |
 |Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | Insight Data Science | San Francisco, CA | 2018 |
 |Dataflow + GCP Cloud Tools | New York Times | Manhattan, NY | 2018 |
 |Shorter Experience [AR/VR] | Capitol Music Group | Los Angeles, CA | 2018 |
@@ -29,7 +29,7 @@
 |AI Expert Session - Panelist| Institute For The Future (IFTF) | Menlo Park, CA | 2017 |
 |Disrupting Learning Models | University of California, Davis + Institute For The Future (IFTF) | Menlo Park, CA | 2016 |
 |Future Forum | ACT Foundation + Institute For The Future (IFTF) | Menlo Park, CA | 2016 |
-|Does College Matter? - Podcast | + SF Reserve Bank | San Francisco, CA | 2016 |
+|Does College Matter? - Podcast | SF Reserve Bank | San Francisco, CA | 2016 |
 |Learning Economy - Panelist | Institute For The Future (IFTF) | Menlo Park, CA | 2015 |
 |New Models of Learning - Panelist | Institute For The Future (IFTF) | Menlo Park, CA | 2015 |
 |Habitot - AR+VR Hackathon - Winner | USC Annenberg School of Journalism | Los Angeles, CA | 2015 |
