@@ -32,7 +32,7 @@
 |Does College Matter? - Podcast | + SF Reserve Bank | San Francisco, CA | 2016 |
 |Learning Economy - Panelist | Institute For The Future (IFTF) | Menlo Park, CA | 2015 |
 |New Models of Learning - Panelist | Institute For The Future (IFTF) | Menlo Park, CA | 2015 |
-|Habitot - AR|VR Hackathon - Winner | USC Annenberg School of Journalism | Los Angeles, CA | 2015 |
+|Habitot - AR+VR Hackathon - Winner | USC Annenberg School of Journalism | Los Angeles, CA | 2015 |
 
 
 #### Projects
