@@ -7,6 +7,7 @@
 #### Technical Talks + Workshops + Competitions
  
 * * *
+
 | What      | Who| Where | Year
 |:-------------|:-------------|:-------------|:------------------------|
 | NYU Start-Up Pitch Competition Team Winner - $50K |Bloc|Manhattan, NY | 2020|
