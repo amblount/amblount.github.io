@@ -1,5 +1,10 @@
-### Hi I'm Alivia  
 ###### This is my CV - In Progress
+
+#### Current Research Area
+
+I am currently building a personalized learning model to help improve student outcomes in online learning spaces. I am tracking skill acquisition to help students understand what they are learning and how they can apply those skills to the real world, typically in a job setting.
+
+Read about the work and check out the repo - [here](https://github.com/amblount/datasciencesummerprogram)
 
 
 * * *
