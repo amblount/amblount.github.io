@@ -40,6 +40,23 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 |New Models of Learning - Panelist | Institute For The Future (IFTF) | Menlo Park, CA | 2015 |
 |Habitot - AR+VR Hackathon - Winner | USC Annenberg School of Journalism | Los Angeles, CA | 2015|
 
+* * *
+
+#### Grants + Awards
+
+* * *
+
+| Company       | Sub-Domain          |Project | Year |
+|:-------------|:------------------|:---------------------|:------|
+| ICML | Diversity Fellowship Award | Un-workshop Proposal  | 2020 |
+| Microsoft | Azure Foundations  | Machine Learning Scholarship  | 2020 |
+| Microsoft | Tuition Scholarship | Diversity  | 2019 |
+| Microsoft | NeurIPS Conference Travel Grant | Black in AI  | 2018 |
+| Facebook | F8 - Conference Registration | Tech Conference  | 2018 |
+| Facebook | NeurIPS Conference Travel Grant | Black In AI  | 2017 |
+| Google | Women Techmakers Conference - Mountain View | Women in Tech  | 2016 |
+| Adobe | General Assembly Scholarship | Web Development Bootcamp  | 2015 |
+| Yes We Code | Dev Bootcamp |Web Development Bootcamp  | 2014 |
 
 #### Projects
 
@@ -89,7 +106,8 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 
 | Company       | Sub-Domain          |Project | Year |
 |:-------------|:------------------|:---------------------|:------|
-| Insight Data Science | Artificial Intelligence | Emergency medicine schedule optimizer  | 2018
+| Insight Data Science | Artificial Intelligence - Reinforcement Learning | Emergency medicine schedule optimizer  | 2018
 | IDEO CoLab | Blockchain | Autonomous vehicle data marketplace  | 2018 |
+| Kapor Center I-lab | PreUni | StartUp  | 2017 |
 
 
