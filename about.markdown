@@ -52,7 +52,8 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 | Microsoft | Azure Foundations  | Machine Learning Scholarship  | 2020 |
 | Microsoft | Tuition Scholarship | Diversity  | 2019 |
 | Microsoft | NeurIPS Conference Travel Grant | Black in AI  | 2018 |
-| Facebook | F8 - Conference Registration | Tech Conference  | 2018 |
+| Facebook | F8 - Conference Registration | Tech Conference  | 2018 
+| Kapor Center | Apps Without Code | PreUni | 2017 |
 | Facebook | NeurIPS Conference Travel Grant | Black In AI  | 2017 |
 | Google | Women Techmakers Conference - Mountain View | Women in Tech  | 2016 |
 | Adobe | General Assembly Scholarship | Web Development Bootcamp  | 2015 |
@@ -81,13 +82,14 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 
 | Company       | Role | Team          | Year |
 |:-------------|:-------------|:------------------|:------|
-| Microsoft          |Program manager| Commercial Sales and Marketing  | 2019
+| Bloc | Director Data Science + Innovation | 2020 |
+| Microsoft          |Program manager| Commercial Sales and Marketing  | 2019 |
 | Facebook |Technical Program Manager| Developer Programs   | 2018  |
 | Universal Music Group           | Entrepreneur in Residence| Data Products     | 2018  |
 
 * * *
 
-#### Software Engineering Internships
+#### Internships
 
 * * *
 
@@ -95,8 +97,10 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 |:-------------|:------------------|:------|
 | New York Times          | Data Engineering Intern | 2018  |
 | Acorns | Data Science Intern   | 2018  |
-| Intuit          | Machine Learning Analytics Intern     | 2017   |
-| Intel          | Software Engineering Intern | 2017  |
+| Intuit | Machine Learning Analytics Intern     | 2017   |
+| Intel  | Software Engineering Intern | 2017  |
+| Childrens Hospital and Research Center Oakland (CHORI) | Ames Lab Research Intern | 2012 |
+| City of Berkeley | Public Health Intern | 2008 |
 
 * * *
 
@@ -108,6 +112,7 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 |:-------------|:------------------|:---------------------|:------|
 | Insight Data Science | Artificial Intelligence - Reinforcement Learning | Emergency medicine schedule optimizer  | 2018
 | IDEO CoLab | Blockchain | Autonomous vehicle data marketplace  | 2018 |
-| Kapor Center I-lab | PreUni | StartUp  | 2017 |
+| Kapor Center I-lab | [PreUni](https://medium.com/kapor-the-bridge/startups-in-the-house-innovators-in-residence-join-the-kapor-center-ilab-da73e3be98b8) | StartUp  | 2017 |
+| UC Berkeley Law Center | Access to Entrepreneurship | Form and Fund Series | 2017
 
 
