@@ -15,7 +15,8 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 
 | What      | Who| Where | Year
 |:-------------|:-------------|:-------------|:------------------------|
-| NYU Start-Up Pitch Competition Team Winner - $50K |Bloc|Manhattan, NY | 2020|
+| Pitch Comptition Winner | Entre Black Founders - Bloc | New York | 2020
+| NYU Social Venture Competition Team Winner - $50K |Bloc|Manhattan, NY | 2020|
 |Epitheliod Sarcoma Technical Report Co-Author|Research To The People|Stanford Medical Center|2020|
 |Algorithmic Fairness + Bias in AI (8-hour) workshop|Agile Testing Conference| Chicago IL | 2019 |
 |Reinforcement Learning to Understand Society, Invited Speaker| Agile Testing Conference | Chicago IL | 2019 |
