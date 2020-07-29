@@ -25,6 +25,7 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 |Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | Intuit | Mountain View, CA | 2018 |
 |Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | SigOpt | San Francisco, CA | 2018 |
 |Optimizing Emergency Medical Resident Schedules, UCSF - Collaboration | Insight Data Science | San Francisco, CA | 2018 |
+|Foo Camp Guest | O'Reilly | Sebastopol, CA | 2018 |
 |Dataflow + GCP Cloud Tools | New York Times | Manhattan, NY | 2018 |
 |Shorter Experience [AR/VR] | Capitol Music Group | Los Angeles, CA | 2018 |
 |Contextual Music Search - Audio Processing | SXSW | Austin, Texas | 2018 |
@@ -53,7 +54,8 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 | Microsoft | Azure Foundations  | Machine Learning Scholarship  | 2020 |
 | Microsoft | Tuition Scholarship | Diversity  | 2019 |
 | Microsoft | NeurIPS Conference Travel Grant | Black in AI  | 2018 |
-| Facebook | F8 - Conference Registration | Tech Conference  | 2018 
+| Facebook | F8 - Conference Registration | Tech Conference  | 2018 |
+| O'Reilly Artificial Intelligence Conference | Room Host | 2017
 | Kapor Center | Apps Without Code | PreUni | 2017 |
 | Facebook | NeurIPS Conference Travel Grant | Black In AI  | 2017 |
 | Google | Women Techmakers Conference - Mountain View | Women in Tech  | 2016 |
