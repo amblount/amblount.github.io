@@ -65,11 +65,17 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 
 | Name       | Description| Link
 |:-------------|:-------------|:-------------|
+| Admin Dashboard User Experience Redesign | Customer Feedback Project | [Description]()
+| MSW - Year Long Scope For Workforce training platform | $1 Millon project plan | [Scope]()
+| Multimedia user experience for neurodiverse students | Personalized learning platform working through 1619 curriculum and engagement activities | [Link]()
+| Data Science Internship | Project Based Learning Platform | [Repo](https://github.com/amblount/datasciencesummerprogram) + [Student Outcome](https://rashadwest.github.io/)
 | SXSW Capitol Music Hackathon Winner: Contextual Music Search| Audio processing application dividing audio track into segments and filtering those segments. | [Devpost](https://devpost.com/software/contextual-music-search)|
 | Capitol360 - Capitol Music Group Hackathon AR/VR Shorter Experience | Created immersive experience using Wayne Shorter exclusive assets to complement audio passive listening experience. | [Devpost](https://devpost.com/software/a-shorter-ar-experience) 
 |Habitot  USC Annenberg School of Journalism, Women’s Hackathon |Designed an augmented reality system that would allow the user to experience the devastating effects of climate change in   a specific habitat. Ex: Experience life as a polar bear standing on a melting iceberg floating away from family. | [Video Presentation](https://www.youtube.com/watch?v=IYtyXwtkzYA) [Write-up](http://dailytrojan.com/2015/10/11/annenberg-hosts-hack-the-gender-gap-for-women/)
 | Insight Data Science | Collaboration with UCSF to optimize emergency medicine resident schedules|  [Link](https://medium.com/@aliviablount/automating-scheduling-for-ed-residents-at-ucsf-a2aa8b9ab880)|
+| Datahub | Data Governance NYT + GCP | [Explanation]()
 | IDEO Colab Fellowship | Autonomous vehicle data sharing using blockchain| [ChainReaction](https://drive.google.com/file/d/1pJ_UB7ByeymOlxWiBg4nE3tNvNUjZkWr/view)|
+| Content Management System | FB - DevC | [Link](https://www.linkedin.com/post/edit/6443056271712088064/)
 | Sentify | Emotionally intelligent music recommendation engine powered by facial recognition software | [Link](https://www.youtube.com/watch?v=_d1aFxSOrvo)|
 | Pocket Board | Financial portfolio stock analysis tool with a swipe selection user experience | [Link](https://www.youtube.com/watch?v=8QUZFZloCFM&t=1s)|
 | Research To The People | Epithelioid Sarcoma patient technical report co-author. |[Link](https://www.researchtothepeople.org/epithelioid-sarcoma-event)|
@@ -82,7 +88,7 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 
 | Company       | Role | Team          | Year |
 |:-------------|:-------------|:------------------|:------|
-| Bloc | Director Data Science + Innovation | 2020 |
+| Bloc | Director Data Science + Innovation | Data Science + Engineering | 2020 |
 | Microsoft          |Program manager| Commercial Sales and Marketing  | 2019 |
 | Facebook |Technical Program Manager| Developer Programs   | 2018  |
 | Universal Music Group           | Entrepreneur in Residence| Data Products     | 2018  |
