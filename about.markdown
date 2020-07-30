@@ -1,6 +1,9 @@
 {::options parse_block_html="true" /}
-<script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-{::options parse_block_html="false" /}
+<html>
+ <head>
+  <script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ </head>
+</html>
 
 ###### This is my CV - In Progress
 
@@ -128,4 +131,4 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 | Kapor Center I-lab | [PreUni](https://medium.com/kapor-the-bridge/startups-in-the-house-innovators-in-residence-join-the-kapor-center-ilab-da73e3be98b8) | StartUp  | 2017 |
 | UC Berkeley Law Center | Access to Entrepreneurship | Form and Fund Series | 2017
 
-
+{::options parse_block_html="false" /}
