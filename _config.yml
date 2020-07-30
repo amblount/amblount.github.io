@@ -22,8 +22,8 @@ email: amblount@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I blog about my reactions to papers I am reading and keep a list of cool papers here. I practice what I am learning through 
   projects so I will post writeups of my papers here as well. I am very interested in RL, metalearning, and self-supervised learning.
-baseurl: /about # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /posts # the subpath of your site, e.g. /blog
+url: http://amblount.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aliviablount
 github_username:  amblount
 
