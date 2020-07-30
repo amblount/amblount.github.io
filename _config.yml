@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-head: <script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+head: ```<script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>```
 title: ALIVIA BLOUNT
 email: amblount@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
