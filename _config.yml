@@ -28,7 +28,7 @@ twitter_username: aliviablount
 github_username:  amblount
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
