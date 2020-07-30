@@ -1,3 +1,7 @@
+{::options parse_block_html="true" /}
+<script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+{::options parse_block_html="false" /}
+
 ###### This is my CV - In Progress
 
 #### Current Research Area
