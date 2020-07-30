@@ -1,9 +1,6 @@
 {::options parse_block_html="true" /}
-<html>
- <head>
-  <script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
- </head>
-</html>
+
+<script data-ad-client="ca-pub-3175504123970367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ###### This is my CV - In Progress
 
