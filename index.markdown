@@ -24,10 +24,10 @@ I made a lot of mistakes getting to where I am now, I tried to share a few of my
 ## Yeah and.
 
 I guess everybody likes technology now a days and you can pretty much find most things on the internet for free and that is all well and good. I am interested in pursuing a career in artificial intelligence research. I definitely did not think that I would be a person able to pursue a career in research because I did not grow up around researchers. But given the fact that I love asking questions and answering questions and generally thinking about thinking, I know that this is the path for me. 
-![Image of places I've worked](https://github.com/amblount/amblount.github.io/blob/master/images/visualNoteImg.jpg)
+![Image of places I've worked](/images/visualNoteImg.jpg)
 
 Along my very weird journey into research and traditional academia I have done some really cool things and had some amazing experiences.
-!Places I've worked](https://github.com/amblount/amblount.github.io/blob/master/images/AboutMe.jpg)
+![Places I've worked](/images/AboutMe.jpg)
 
 Even though I was able to work at all of these really cool companies and travel around the world somewhat, I still felt like I had a surface level understanding
 of data science and artificial intelligence and this just didn't feel right. I felt incomplete and not well read - so I figured if I am going to be the next
