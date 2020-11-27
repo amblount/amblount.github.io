@@ -1,11 +1,12 @@
-# Hey - I'm Alivia and I like technology read [about me](https://amblount.github.io/about)
+## Hey - I'm Alivia and I like technology read [about me](https://amblount.github.io/about)
 <p float="left">
-  <img src="/images/P10.jpg" width="300" />
-  <img src="/images/P24.jpg" width="300" /> 
-  <img src="/images/P7.jpg" width="300" />
+  <img src="/images/P10.jpg" width="50" />
+  <img src="/images/P24.jpg" width="50" /> 
+  <img src="/images/P7.jpg" width="50" />
 </p>
 
-![alt text]()
+Honestly, I never saw myself as a researcher.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AekKLh1ZesM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Yeah and.
 
