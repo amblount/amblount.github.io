@@ -1,4 +1,5 @@
-## Hey - I'm Alivia and I like technology read [about me](https://amblount.github.io/about)
+## Hello World
+My name is Alivia and I am really happy that you found my virtual online blog space. I try to compile aspects of my work here. I have snippets of it splattered across the internet but I try to contextualize it all here. I have so many cool posts and photos here and there so I figured I would compile them all into one place. Given I am working on really cool technical projects now, I need a place to share them and this is going to be the place. Feel free to read more about my work [about me](https://amblount.github.io/about)
 <p float="left">
   <img src="/images/P10.jpg" width="175" />
   <img src="/images/P24.jpg" width="175" /> 
