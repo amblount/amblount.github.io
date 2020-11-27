@@ -58,7 +58,7 @@ Read about the work and check out the repo - [here](https://github.com/amblount/
 | Microsoft | Tuition Scholarship | Diversity  | 2019 |
 | Microsoft | NeurIPS Conference Travel Grant | Black in AI  | 2018 |
 | Facebook | F8 - Conference Registration | Tech Conference  | 2018 |
-| O'Reilly Artificial Intelligence Conference | Room Host | 2017
+| O'Reilly | Artificial Intelligence Conference | Room Host | 2017
 | Kapor Center | Apps Without Code | PreUni | 2017 |
 | Facebook | NeurIPS Conference Travel Grant | Black In AI  | 2017 |
 | Google | Women Techmakers Conference - Mountain View | Women in Tech  | 2016 |
