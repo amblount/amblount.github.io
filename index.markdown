@@ -18,6 +18,10 @@ Click the image to learn more **About Me**
 |- [Explainable AI](https://www.youtube.com/watch?v=B-c8tIgchu0) | - [Adversarial Curiosity](https://arxiv.org/abs/1906.04493v1)|
 |- [Openendedness](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/) |- [Artificial Intelligence Generating Algorithms](https://arxiv.org/abs/1905.10985)|
 
+## Wanna Read About the Cool Stuff I build and learn how I did it?
+[Enter Substack](https://alivia.substack.com/)
+![substack](/images/substack.PNG)
+
 ## Winter + Spring 2021 What am I up to?
 I'm a [fellow](https://labs.robinhood.org/fellows/) working on solving poverty problems.
 ![fellowship](/images/BRL-Fellowship.PNG)
