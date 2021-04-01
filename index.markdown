@@ -1,5 +1,8 @@
 ## Hello World
-My name is Alivia and I am really happy that you found my virtual online blog space. I try to compile aspects of my work here. I have snippets of it splattered across the internet but I try to contextualize it all here. I have so many cool posts and photos here and there so I figured I would compile them all into one place. Given I am working on really cool technical projects now, I need a place to share them and this is going to be the place. Feel free to read more about my work [about me](https://amblount.github.io/about)
+My name is Alivia and I am really happy that you found my virtual online blog space. I try to compile aspects of my work here. I have snippets of it splattered across the internet but I try to contextualize it all here. I have so many cool posts and photos here and there so I figured I would compile them all into one place. Given I am working on really cool technical projects now, I need a place to share them and this is going to be the place. Feel free to read more about my work..
+
+Click the image to learn more **About Me**
+[![button](https://th.bing.com/th/id/R0958b0417915a43302fc982b3969d6c8?rik=xA5XN50PXDbiyQ&riu=http%3a%2f%2fcdn.spoilertv.com%2fimages%2fheaders%2fgrown-ish.jpg&ehk=yyAa8r9eZ4ywjb0YqBzkwEaC1eK6J8XmGHeKMM0xvdc%3d&risl=&pid=ImgRaw)](https://amblount.github.io/about)
 <p float="left">
   <img src="/images/P10.jpg" width="175" />
   <img src="/images/P24.jpg" width="175" /> 
@@ -14,6 +17,14 @@ My name is Alivia and I am really happy that you found my virtual online blog sp
 |- [Causal Inference](https://www.bradyneal.com/causal-inference-course) | - Bayesian Statistics|
 |- [Explainable AI](https://www.youtube.com/watch?v=B-c8tIgchu0) | - [Adversarial Curiosity](https://arxiv.org/abs/1906.04493v1)|
 |- [Openendedness](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/) |- [Artificial Intelligence Generating Algorithms](https://arxiv.org/abs/1905.10985)|
+
+## Winter + Spring 2021 What am I up to?
+I'm a [fellow](https://labs.robinhood.org/fellows/) working on solving poverty problems.
+![fellowship](/images/BRL-Fellowship.PNG)
+![fellowship](/images/BRL-About.PNG)
+
+### I've learned a TON
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GI_GnOEDJ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Honestly, I never saw myself as a researcher.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AekKLh1ZesM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
