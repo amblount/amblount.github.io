@@ -21,22 +21,22 @@ https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-
 [Read about it here](https://devpost.com/amblount)
 
 ### Alivia like data science
-![capitaldatascience](https://user-images.githubusercontent.com/13387349/129493902-b3c71f48-4a81-4f11-bbf3-15642056c3d4.jpg)
+![capitaldatascience](https://user-images.githubusercontent.com/13387349/129494133-393acc30-30c0-4334-bdcf-2b04b08c8f4b.jpg)
 
 ### I did interview and was able to travel to Los Angeles for All Star weekend with Capital Group but they are into finance and not music so different world.
-![capitalds](https://user-images.githubusercontent.com/13387349/129493905-d1a23c7e-c38a-4ffd-ab2e-ad8cf5d58662.jpg)
+![capitalds](https://user-images.githubusercontent.com/13387349/129494140-62bb880b-87a4-4a30-a413-1035250077c2.jpg)
 
 ## I went to Austin Texas for SXSW when I was working with Facebook
-![austinsxswcapitolwinnerphoto](https://user-images.githubusercontent.com/13387349/129493910-ee86df43-ce7c-4b7b-b3f0-cf5ee70706f2.jpg)
+![austinsxswcapitolwinnerphoto](https://user-images.githubusercontent.com/13387349/129494146-669cf343-2cbb-4b97-bf48-41be92ea4a40.jpg)
 
 ## I stayed at the driskell hotel
-![drskellmoneyclip](https://user-images.githubusercontent.com/13387349/129493908-6af24eb1-608b-4d62-a7c7-c68976c6a91c.jpg)
+![drskellmoneyclip](https://user-images.githubusercontent.com/13387349/129494152-ab2b200a-13d3-48a2-af36-8ddcb805e494.jpg)
 
 ## My team sponsored a music hackathon and while bored I participated
-![workingSxsw](https://user-images.githubusercontent.com/13387349/129493913-3377336c-8998-442a-a790-e380a7d727e2.jpg)
+![workingSxsw](https://user-images.githubusercontent.com/13387349/129494157-b37a78d0-ec18-44f0-9ed1-7f17e6733d05.jpg)
 
 ## My team won the hackathon
-![sxswWinnerGroupPhoto](https://user-images.githubusercontent.com/13387349/129493912-5ca7545a-e887-4ca0-9f08-dd3078cecc52.jpg)
+![sxswWinnerGroupPhoto](https://user-images.githubusercontent.com/13387349/129494166-9dc73122-f782-4aae-9842-0e0408752705.jpg)
 
 ## We went to UMG and Capitol Music Group to learn about data products in Los Angeles
 ![umgbadge](https://user-images.githubusercontent.com/13387349/129493914-9d4919be-e339-41f1-8668-094caea3fafc.jpg)
