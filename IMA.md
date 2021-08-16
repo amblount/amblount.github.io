@@ -30,7 +30,7 @@ https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-
 ![austinsxswcapitolwinnerphoto](https://user-images.githubusercontent.com/13387349/129494146-669cf343-2cbb-4b97-bf48-41be92ea4a40.jpg)
 
 ## I stayed at the driskell hotel
-![drskellmoneyclip](https://user-images.githubusercontent.com/13387349/129494152-ab2b200a-13d3-48a2-af36-8ddcb805e494.jpg)
+![drskellmoneyclip](https://github.com/amblount/amblount.github.io/blob/master/images/IMG_1343_Original.jpeg)
 
 ## My team sponsored a music hackathon and while bored I participated
 ![workingSxsw](https://user-images.githubusercontent.com/13387349/129494157-b37a78d0-ec18-44f0-9ed1-7f17e6733d05.jpg)
