@@ -21,22 +21,23 @@ https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-
 [Read about it here](https://devpost.com/amblount)
 
 ### Alivia like data science
-![capitaldatascience](https://user-images.githubusercontent.com/13387349/129494133-393acc30-30c0-4334-bdcf-2b04b08c8f4b.jpg)
+![capitaldatascience](https://github.com/amblount/amblount.github.io/blob/master/images/datascienceagenda.jpeg)
 
 ### I did interview and was able to travel to Los Angeles for All Star weekend with Capital Group but they are into finance and not music so different world.
-![capitalds](https://user-images.githubusercontent.com/13387349/129494140-62bb880b-87a4-4a30-a413-1035250077c2.jpg)
+![capitalds](https://github.com/amblount/amblount.github.io/blob/master/images/datasciencefolder.jpeg)
 
 ## I went to Austin Texas for SXSW when I was working with Facebook
-![austinsxswcapitolwinnerphoto](https://user-images.githubusercontent.com/13387349/129494146-669cf343-2cbb-4b97-bf48-41be92ea4a40.jpg)
+![austinsxswcapitolwinnerphoto](https://github.com/amblount/amblount.github.io/blob/master/images/sxswbadge.jpeg)
 
 ## I stayed at the driskell hotel
 ![drskellmoneyclip](https://github.com/amblount/amblount.github.io/blob/master/images/IMG_1343_Original.jpeg)
 
 ## My team sponsored a music hackathon and while bored I participated
-![workingSxsw](https://user-images.githubusercontent.com/13387349/129494157-b37a78d0-ec18-44f0-9ed1-7f17e6733d05.jpg)
+![workingSxsw](https://github.com/amblount/amblount.github.io/blob/master/images/workingsxsw.jpeg)
 
 ## My team won the hackathon
-![sxswWinnerGroupPhoto](https://user-images.githubusercontent.com/13387349/129494166-9dc73122-f782-4aae-9842-0e0408752705.jpg)
+![sxswWinnerGroupPhoto](https://github.com/amblount/amblount.github.io/blob/master/images/sxswcapitolwinners.jpeg)
+![sxswWinnerGroupPhoto](https://github.com/amblount/amblount.github.io/blob/master/images/sxsw3winners.jpeg)
 
 ## We went to UMG and Capitol Music Group to learn about data products in Los Angeles
 ![umgbadge](https://user-images.githubusercontent.com/13387349/129493914-9d4919be-e339-41f1-8668-094caea3fafc.jpg)
