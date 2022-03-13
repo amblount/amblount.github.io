@@ -14,7 +14,7 @@ I am -
 - cultured
 - well traveled
 - single
-- apartment dweller and previous homw owner
+- apartment dweller and previous home owner
 
 Who has a story like mine? And those are just the aspects of my identity that I can think of right now. If I were to take the time to think about this in more depth and really
 start to unpack aspects of myself that I believe make me who I am I think I would really start to get into how and why I am who I am today and I don't think it conforms to what so many
