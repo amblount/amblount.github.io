@@ -16,6 +16,13 @@ Frequently Asked Questions:
 - Total Cost Per Month: $570 (USD) / month
 - Total Annual Cost [1 Year]: $6,840 (USD) / year
 
+#### Property Management
+ - [ADCO](http://www.addisconcepts.com/) - find an apartment
+ - dd
+
+
+#### Services
+  - [Emporis](https://www.emporis.com/companies/categories) - German company that owns service sectors in Addis
 
 ### Data Engineering
 
