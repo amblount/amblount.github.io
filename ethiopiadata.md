@@ -17,7 +17,7 @@ Frequently Asked Questions:
 - Total Annual Cost [1 Year]: $6,840 (USD) / year
 
 #### Property Management
- - [ADCO](http://www.addisconcepts.com/) - find an apartment
+ - [Real Addis](https://www.realaddis.com/contact-us/) - find an apartment
  - dd
 
 
