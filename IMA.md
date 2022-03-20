@@ -1,14 +1,55 @@
 # Hey it’s alivia send me your spinning up account 
 https://www.universalmusic.com/label/spinnup/
 
-Spinning up is a super cool platform for independent artists and they have a blog that will tell you hot to be an idependent artist. I dont work with them I am just familiar with the platform and pay attention to new artists. If you are an artist or know any artists create an account.
+Spinning up is a platform for independent artists run by Universal Music Group (UMG). I dont work with them I am just familiar with the platform and pay attention to new artists. If you are an artist or know any artists create an account. UMG is one of the major record labels and I know that new or aspiring artists have a lot of questions about how to get started and where to share their music or how to create a music page. I have tried to do my best to aggregate a few resources here because in the beginning for me everything was so confusing and it has taken me year to figure things out.
+
+I spent some time as an entrepreneur in residence with Capital Music Group and Universal Music Group and was able to talk to people working in A&R to understand a bit more about the business side of music.
 
 ![Team photo @ UMG](https://user-images.githubusercontent.com/13387349/129493384-f67476c4-0e51-4286-9935-10fe2570fca0.jpg)
+
+A former entertainment lawyer and a social commentary youtuber got together and broke down some really important information about the music business, you might want to check that out.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKgr1jD8pBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Pharrel also gave a great talk a few years ago about the music industry and ownership, this seems useful for new artists to know.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7w9sub4v_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pro Tips For New Artists
+1. Write your own music (notepad)
+2. Snatch  free beat from YouTube (google free beat, insert genre)
+3. Record your vocal audio and beat in garage band with some sort of mic situation
+4. Submit your music to [United Masters](https://unitedmasters.com/)
+5. Contact customer support to ensure you have ownership rights to your page on apple music and spotify music
+6. Submit your art to [Tiny Desk Competitions](https://www.npr.org/series/1072544367/tiny-desk-contest) and [Festivals](https://www.findfestival.com/)
+7. Find local artists in your area and look at their webpages to see where they have performed, contact those venues
+8. Wash Rinse + Repeat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bb2qFtZWHxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xH207-jR8is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## You are probably wondering who is this girl?
 https://amblount.github.io/
 
-## I basically decided one day to become a software engineer
+I am more interested in data journalism and sentiment analysis now, so I am writing about how music makes you feel. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hei97fAez-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlI-LR172us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4jmUHd3Smpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## I started gaining skills in technology due to the high cost of living
+<img width="500" height="500" alt="Screen Shot 2021-08-15 at 2 35 47 PM" src="/images/visualNoteImg.jpg">
+
+  - I completed a web development bootcamp
+  - I completed another software engineering bootcamp
+  - I did a few internships
+  - I did a few corporate jobs
+  - I was burnt out and started writing about food and leisure
+  - I started making videos about adulting and living on my own
+  
 https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-blount
 
 ### I won a few hackathons and was able to work with Universal Music Group 3x
