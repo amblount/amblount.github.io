@@ -20,6 +20,32 @@ https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-
 
 [Read about it here](https://devpost.com/amblount)
 
+### How did Begin to care?
+I grew up around musicians and it was difficult for me to understand how artists make money given so many artists end up broke. I knew that certain people were making money in the business but honestly I didn't understand how much of the business of music works. I did a lot of independent research speaking with different teams inside of Universal Music Group to understand royalties, and masters and try to get a feel of who owns music specifically in a streaming era.
+
+### My Family
+Some members on my mom's side of the my family are the descendants of American Chattel Slavery (D.A.C.S.) and many of them lived off of the wealth created by my uncles music career. It retrospect this should not have been such an integral part of my story growing up but so few people in my family had access to higher education or quality publid education through secondary schooling that their life chances were non-existent outside of fields in entertainment. My uncle (Little Walter) was a problematic, outspoken drunk whose overconsumption eventually lead to his death as depicted in the film, Cadillac Records. As momumental as it was for me to see the story of a beloved family member on screen, it just reminded me of the purpose and significance of ownership in music for artists. Althought listening to good musis is a wonderful experience for so many consumers, people fail to realize that many artists feed and raise their families with the money they ear in this career. Personally for me the second home that I grew up in was paid for money that my uncle earned playing the harmonica. The story is an integral part of my life.
+
+<p float="left">
+  <img src="/images/littlewalter.jpg" width="200" />
+  <img src="/images/cadillacrecords.jpg" width="200" /> 
+  <img src="/images/littlewatercadillac1.jpg" width="275" />
+  <img src="/images/littlewaltercadillac2.jpg" width="275" />
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1309MEQ4b30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### The Blues Museum, St. Louis
+On a previous team, I traveled to St. Louis to support developers working in one of the North American tech hubs and while walking around the community I passed the national museum of blues and purchased a ticket to enter. I was suprised to find so many artifacts containing imargery and documents of my uncle, and it was an incredible experience for me. When I told my grandmother about it, she cried for a few weeks becuase she had so many memories about her brother and what he meant to her as a person but I think more importantly socially and for the trajectory of her life and her family. For her it wasn't jusy music it was a home or place of refuge after my family had to run away from gang violence in Chicago. Little Walter's songs in her case were like biblical chants of freedom and prosperity and obserd as that may sound.
+<p float="left">
+  <img src="/images/stlouis.jpg" width="175" />
+  <img src="/images/HouseOfBluesFrontDesk.jpg" width="175" />
+  <img src="/images/ripplesOfInfluenceHOB.jpg" width="175" /> 
+  <img src="/images/keithrichardsHOB.jpg" width="175" />
+  <img src="/images/harmonicasWalter.jpg" width="175" />
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJ8nlZerJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Alivia works on music and data
 <p float="left">
   <img src="/images/datascienceagenda.jpeg" width="200" />
