@@ -37,33 +37,33 @@ I watched the film Master in theatres and was suprised by how relatables the fil
 Her name is Mariama Diallo, and she has explained why she wrote it.
 
 - New York Times (Opinion Summary of Film) - [Master Review Get The to and H.B.C.U.](https://www.nytimes.com/2022/03/17/arts/master-review-get-thee-to-an-hbcu.html)
-Not a very descriptive piece at all, but it you are looking for a VERY geneal overview of what happened and what a white female writer thinks of the film, this is a great start.
+  - Not a very descriptive piece at all, but it you are looking for a VERY geneal overview of what happened and what a white female writer thinks of the film, this is a great start.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26KGkQEsHwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - The Chronicle on Higher Education - [Her experience at Yale unsettles her. So she wrote a horror film about being black in academe.](https://www.chronicle.com/article/her-experience-at-yale-unsettled-her-so-she-wrote-a-horror-film-about-being-black-in-academe?bc_nonce=nrs67n1hdcj1idjzh3qdxp&cid=reg_wall_signup)
-Author: Oyin Adedoyin - I think this piece is very well written and the author took a lot of time thinking about themes in the film.
+  - Author: Oyin Adedoyin - I think this piece is very well written and the author took a lot of time thinking about themes in the film.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/npd3cTFBDS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - New Yorker - [Metaphysical horror becomes all too real in audacious master](https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master/amp)
-This article was share by the director herself and she is interviewd in the piece explaining a lot of the why behind the film and the meaning of it.
+  - This article was share by the director herself and she is interviewd in the piece explaining a lot of the why behind the film and the meaning of it.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bFFi-EMqPn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Inside the directors studio
 
-The upcoming
+##### The upcoming
 - take away 1
 - take away 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SQHRMbNOQBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Collider
+##### Collider
 - take away 1
 - take away 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_C1w41TdieU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Flick Direct
+###### Flick Direct
 - take away 1
 - take away 2
--<iframe width="560" height="315" src="https://www.youtube.com/embed/fZaV-KCZ2KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZaV-KCZ2KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
