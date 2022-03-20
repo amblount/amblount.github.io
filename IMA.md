@@ -20,27 +20,26 @@ https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-
 
 [Read about it here](https://devpost.com/amblount)
 
-### Alivia like data science
-![capitaldatascience](https://github.com/amblount/amblount.github.io/blob/master/images/datascienceagenda.jpeg)
+### Alivia works on music and data
+<p float="left">
+  <img src="/images/datascienceagenda.jpeg" width="200" />
+  <img src="/images/datasciencefolder.jpeg" width="200" /> 
+  <img src="/images/sxswbadge.jpeg" width="200" />
+  <img src="/images/IMG_1343_Original.jpeg" width="200" />
+</p>
 
-### I did interview and was able to travel to Los Angeles for All Star weekend with Capital Group but they are into finance and not music so different world.
-![capitalds](https://github.com/amblount/amblount.github.io/blob/master/images/datasciencefolder.jpeg)
+- I did interview and was able to travel to Los Angeles for All Star weekend with Capital Group but they are into finance and not music so different world
+- I went to Austin Texas for SXSW when I was working with Facebook
+- I stayed at the driskell hotel
 
-## I went to Austin Texas for SXSW when I was working with Facebook
-![austinsxswcapitolwinnerphoto](https://github.com/amblount/amblount.github.io/blob/master/images/sxswbadge.jpeg)
 
-## I stayed at the driskell hotel
-![drskellmoneyclip](https://github.com/amblount/amblount.github.io/blob/master/images/IMG_1343_Original.jpeg)
+### My team sponsored a music hackathon and while bored I participated and won
+<p float="left">
+  <img src="/images/workingsxsw.jpeg" width="200" height="250" />
+  <img src="/images/sxswcapitolwinners.jpeg" width="250" height="250"/> 
+  <img src="/images/sxsw3winners.jpeg" width="250" height="250" />
+</p>
 
-## My team sponsored a music hackathon and while bored I participated
-![workingSxsw](https://github.com/amblount/amblount.github.io/blob/master/images/workingsxsw.jpeg)
-
-## My team won the hackathon
-![sxswWinnerGroupPhoto](https://github.com/amblount/amblount.github.io/blob/master/images/sxswcapitolwinners.jpeg)
-![sxswWinnerGroupPhoto](https://github.com/amblount/amblount.github.io/blob/master/images/sxsw3winners.jpeg)
-
-## We went to UMG and Capitol Music Group to learn about data products in Los Angeles
-![umgbadge](https://user-images.githubusercontent.com/13387349/129493914-9d4919be-e339-41f1-8668-094caea3fafc.jpg)
 
 ## I rented a loft space while in LA
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMeCzE9qkjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
