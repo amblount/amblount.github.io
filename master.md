@@ -161,8 +161,19 @@ Kianna moved to Colombia 🇨🇴 and Kelly moved to Texas, it was incredible.
 #### Adeola Fayehun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dGRF1ezb6tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Nagad
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmvonX_mHwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Isememe Edeko
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k9gQybGkQs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Tee Noir
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwtueIlcWR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Black Youtube Shows
-- the sisters circle
+- To my sisters
+<iframe width="560" height="315" src="https://www.youtube.com/embed/btX8ckmccZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - the grapevine
 - the Terrell show
 - the breakfast club
