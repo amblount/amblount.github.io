@@ -173,11 +173,17 @@ Seren is a YouTuber that I found during a the intense portion of civil unrest ev
 #### Adeola Fayehun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dGRF1ezb6tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Adeola studies Journalism in the UK and saw a gap in reporting for Africa as a continent so she started her own show where she details current events in Africa, specifically Nigeria. She talks about the government and politics, she breaks down education policy and forgein affairs. It is a very informative show if you aim to understand the current politics on the continent and who feel what. It can get very difficult to get a good perspective on the differences in opinion between people lviing in Africa and how they feel and what the government is imposing and how the government is curerntly operating or failnig to take action. I have learned so much about Africa and its development from watching her show. From what I understand following her on social media could be very informative of what is happening in real time given she is now a trusted news source in Africa, so people in her comments help her fact check and provide credible references.
+
 #### Nagad
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jmvonX_mHwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Nagad is currently a stay at home Mom, who lives with her husband a new baby boy. Her video blog is now really a mommy blog space so if you are a black mother this is a completely safe space for you. If you are interested in honest commentary about what it is like to be separated from your family because of cultural differences and lifestyle choices this is a useful channel for that as well. Nagad talks a lot about race culture and religion and what that means to her now as a Black Somalian women living in Canada. She speaks a number of different lanugages and is choosing to raise her child in a low-tech environment so that is interesting to unpack. I like her style a lot.
+
 #### Isememe Edeko
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9gQybGkQs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I found Iseme through her second channel with her boyfriend. They have the most healthy relationship in the world, talk about couple goals! She makes content about modern day living and all the goings on in her life. I love to read about it because I feel like she is just being honest. She feels like the girl next door who is just doing the regular activities in her dialy life and trying to figure things out. There is no trauma porn or really extra anything it's just calm rational content for the moderate black girl. If you are that normal girl, this might be the channel for you.
 
 #### Tee Noir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwtueIlcWR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
