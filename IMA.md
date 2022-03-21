@@ -154,6 +154,17 @@ _**ALIVIA LOVES MUSIC RECOMMENDATION ENGINES**_
 - You can read about the project in the Dev Post Lnks above
 - ROVI (TIVO) has a [metadata music API](http://prod-doc.rovicorp.com/mashery/index.php/Data/APIs/Rovi-Music) where you can query metadata about a song and use this information to build other music related apps
 
+## How can YOU can involved
+If you are interested in building products with music I would encourage to narrow in on your focus. There are free product design courses and you can work your way through one of them. Google offers a free course on [product design](https://www.udacity.com/course/product-design--ud509) which they host on the Udacity learning platform. I would encourage you to take it. Once you have an idea on what you want to build and how it could work, you can try talking to some of your friends about the product and see if the idea makes sense. Once you get to a place where 5 people you know understand how your product should work, you can try to serach around for data and see if you can create a databse filled with information about your topic.
+
+Look into Abbey Road and their innovation challenge. They have a lot of music products from that people have built in the past. Abbey Road is one of the most notorious music studios in the world, so they definitely know music.
+
+[_**ABBEY ROAD INCUBATOR**_](https://www.abbeyroad.com/the-incubator)
+
+Take a look at the last project that I worked on with the Universal Music Groups Innovation Challenge. Duets
+#### Duets is The first social AR app to capture human movement and music
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cs-zCNkC5fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## I rented a loft space while in LA
 
 I took some time away from work to actually travel with my team to Los, Angeles and visit different departments inside of Capital Music and learn more about the music business. I stayed in the most lovely AirBnB in Los Angeles owned buy musicians. In this video you can see what that what like for me.
