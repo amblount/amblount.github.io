@@ -86,14 +86,23 @@ This is a digital scrapbook that I am creating for you to get a sense of the way
 
 ### I won a few hackathons and was able to work with Universal Music Group 3x
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJxb6WepYO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### I won a few hackathons and was able to visit capitol music group it was so cool.
 <img width="969" alt="Screen Shot 2021-08-15 at 2 35 47 PM" src="https://user-images.githubusercontent.com/13387349/129493571-201f408e-64f1-40ed-934b-853956019ee4.png">
 
 [Read about it here](https://devpost.com/amblount)
 
-### How did Begin to care?
+#### What did I learn?
+  - What is the music business at heart and how do artists make money?
+  - How do you create meaningful engagement online with fans?
+  - How do you create a useful music recommendation engine and where do you get the metadata?
+  - What metadata is collected about each song and how can developers query this data?
+  - Where do streaming platforms get information about the music, who owns this data?
+  - How do artists get access to data collected on music streaming platforms like Spotify and Youtube?
+
+I share some of that insight in this video blog I did after one of the meetings I had this summer.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJxb6WepYO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### What does the music industry mean to me?
 I grew up around musicians and it was difficult for me to understand how artists make money given so many artists end up broke. I knew that certain people were making money in the business but honestly I didn't understand how much of the business of music works. I did a lot of independent research speaking with different teams inside of Universal Music Group to understand royalties, and masters and try to get a feel of who owns music specifically in a streaming era.
 
 ### My Family
@@ -108,7 +117,7 @@ Some members on my mom's side of the my family are the descendants of American C
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1309MEQ4b30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### The Blues Museum, St. Louis
+### The Blues Museum, St. Louis (2018)
 On a previous team, I traveled to St. Louis to support developers working in one of the North American tech hubs and while walking around the community I passed the national museum of blues and purchased a ticket to enter. I was suprised to find so many artifacts containing imargery and documents of my uncle, and it was an incredible experience for me. When I told my grandmother about it, she cried for a few weeks becuase she had so many memories about her brother and what he meant to her as a person but I think more importantly socially and for the trajectory of her life and her family. For her it wasn't jusy music it was a home or place of refuge after my family had to run away from gang violence in Chicago. Little Walter's songs in her case were like biblical chants of freedom and prosperity and obserd as that may sound.
 <p float="left">
   <img src="/images/stlouis.jpg" width="175" />
@@ -120,6 +129,10 @@ On a previous team, I traveled to St. Louis to support developers working in one
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MJ8nlZerJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Alivia works on music and data
+As I gained more skills in technoogy and software engineering I found a passion data and metadata. I spent a lot of time thinking about how metadata could be used to help music consumers find better recommendations. I had to learn a little about analytics and parsing large and small data sets and in my spare time I worked in the first version of sentify the sentiment analysis music project. I also interviews with large financial technoogy companies in the data science department, so even interviewing with these companies I learned more about how big data and machine learning were being used to make recommendations. I guess music recommendations are my area of interest.
+
+_**ALIVIA LOVES MUSIC RECOMMENDATION ENGINES**_
+
 <p float="left">
   <img src="/images/datascienceagenda.jpeg" width="200" />
   <img src="/images/datasciencefolder.jpeg" width="200" /> 
@@ -127,10 +140,9 @@ On a previous team, I traveled to St. Louis to support developers working in one
   <img src="/images/IMG_1343_Original.jpeg" width="200" />
 </p>
 
-- I did interview and was able to travel to Los Angeles for All Star weekend with Capital Group but they are into finance and not music so different world
-- I went to Austin Texas for SXSW when I was working with Facebook
-- I stayed at the driskell hotel
-
+- Travel to Los Angeles for All Star weekend (2017) to interview with Capital Group (American Hedge Fund- Financial Technology)
+- I went to Austin, Texas for SXSW - Music to host a Hackathon when I was working with Facebook
+- Traveled from Tunis, Tunisia (Africa) to Austin, learned a LOT about corporate travel around the world and business class, delta air miles are legit
 
 ### My team sponsored a music hackathon and while bored I participated and won
 <p float="left">
@@ -139,26 +151,59 @@ On a previous team, I traveled to St. Louis to support developers working in one
   <img src="/images/sxsw3winners.jpeg" width="250" height="250" />
 </p>
 
+- You can read about the project in the Dev Post Lnks above
+- ROVI (TIVO) has a [metadata music API](http://prod-doc.rovicorp.com/mashery/index.php/Data/APIs/Rovi-Music) where you can query metadata about a song and use this information to build other music related apps
 
 ## I rented a loft space while in LA
+
+I took some time away from work to actually travel with my team to Los, Angeles and visit different departments inside of Capital Music and learn more about the music business. I stayed in the most lovely AirBnB in Los Angeles owned buy musicians. In this video you can see what that what like for me.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMeCzE9qkjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## I toured the classic building
+
+Walking through this recording studio and watching musicians record in real time felt so surreal. I never thought in a million years that I would have the opportunity to walk in a building that some of the geatest musicians of all time have worked in. It felt nostalgic and other worldly. I am so prooud that I was able to have this experience because I was able to talk to my family members about it and they also realized the impact and significance of the trip.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SEun1sOCdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## I met Frank Oceans Producer
+
+We are talking about THE Frank Ocean. Chanel Orange changed my life in ways that hard to put words to and to get to chat with someone who worked with him made me feel really special. Like a superhero.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPXOdfmlj-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## I explored the sound board
+
+The equipment here is obviously the highest grade available in the world.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-L6jnHliGok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## I love live music
+
+I currently live in Downtown, Berkeley (California) and there is live music every weekend. You can just go outside between 8:00 PM - 10:00 PM and listen to some local band play their songs or other bands who perform covers. It's incredible and cheap fun.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3zbKPxNf3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## I do covers
+
+This year I started writing and performing. It's the beginning so its kinda bad.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DiYSoHS_bgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Read This book
+
+This book is one resource that all of the music execs in all of the buildings I have visited had on their desks. The author worked in the music business for many years and updates the contents of the book each year.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqSWQLatq3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Now in its tenth edition and its biggest revise ever, Donald Passman’s classic guide returns with the most changes in the book’s and music’s history, due to how streaming has turned the industry upside down. This  is a must read to navigate those changes and thrive in the rapidly changing music industry. 
+
+Nobody knows the music business like Don Passman. The first edition of ALL YOU NEED TO KNOW ABOUT THE MUSIC BUSINESS was released in 1991, quickly being dubbed the “industry bible” by the Los Angeles Times. Over the next 28 years and many editions, Donald Passman’s roadmap on how to succeed in music has only become sharper and more insightful. Now, in its tenth and most comprehensive update yet, Passman guides readers once more through the constantly shifting landscape of the music industry—through all the digital and streaming jungles and mystifying legalese and royalties—to teach music-loving hopefuls everything they could possibly need to know to not only survive, but to strike it big.
+
+But this book isn’t only for those just starting out. Whether you’re a novice taking your first look into the music world or you’ve been in the business for a while but are mystified by the massive upheaval around you, you will find that the newest update to Passman’s guide offers the same gold-standard of timely, trustworthy guidance from a universally respected veteran of the industry. He teaches new talent how to choose a winning team of advisors; how to structure their commissions and fees; and how to navigate the ins and outs of record deals. Higher-ups can find authoritative advice on maximizing profits through concerts, touring, and merchandising deals. But most importantly, while this tenth revamp of Passman’s indispensable guidebook retains the sage lessons from past editions, it also indicates how professionals can navigate the biggest shift the industry has faced since the phonograph: teaching us all how to play the game even after the streaming revolution completely changed the rules.
+
+The music industry has gone through a period of unprecedented upheaval in the last twenty years. The advent of streaming threw the musical ecosystem completely on its head. Suddenly, musicians don’t earn money through the number of units they sell, but rather by how many times their audiences listen to their songs. Now that this major transformation has occurred, changing everything we thought we knew about how the industry operates, the only question left to ask yourself is: how do I make streaming work for me? The tenth edition of ALL YOU NEED TO KNOW ABOUT THE MUSIC BUSINESS definitively answers this question—and so many more.
+
 ![IMG_0428](https://user-images.githubusercontent.com/13387349/129493374-a160b2d0-0855-4118-80ed-21f51be48d3b.jpg)
 
 
