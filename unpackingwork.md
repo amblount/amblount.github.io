@@ -25,8 +25,24 @@ is useful for others who are interested in understanding what I have done and ho
 - Dev Bootcamp Software Engineering 		Certificate of Completion   	(2017)
  
 ### WORK EXPERIENCE
-- Engineering Fellow | Blue Ridge Labs 	Brooklyn, NY 	|		(2021)
+- Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021
+
   - What team or product did I work on?
+
+
+As a member of the fellowship program I worked with multiple teams to explore different aspects of poverty. We spent the first few months of the program thinking interviewing people living in poverty who were affialiated with Blue Ridge to hear their experiences and take notes. This part of the fellowship centered around user research. We used tool called Mural to create stakeholder maps and cluster themes from the user interviews into topics of interest that we could potentially build solutions for. 
+    
+The second phase of the program consisted of working groups which were about 3-4 people and lead by one of the fellowship members. Every fellow had an opportunity to lead a week long sprint where they would inform their team members about the topic at hand and scout members of the community which they intended to serve so that the team could interview and understand some of the problems impacting that community. 
+
+    I worked on three teams:
+    1. Support Groups for trans people of color
+    2. Resource Support for Returning Citizens
+    3. Comprehension (Literacy) App for early readers [Leader of this Sprint]
+   
+The sprints were 1 week long and at the end of each week the team was responsible for creating a prototype for an app that would serve that community, informed by the user research from the week.
+   
+The last few months of the sprint were spent working on one project with one team on one of the projects from the weeks prior. We went through a voting process to select the projects that we felt would have the most impact and were able to self select into teams from that point. I worked on RC-Connect a product that would help returning citizens understand what programs and resources currently exist to help them re-integrate back into society. We thought a lot about the social support aspect of the re-integration process. 
+
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
   - Who did I work with?
