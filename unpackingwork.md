@@ -295,27 +295,137 @@ Electronic receipts were stated to be mandatory in the next 5 years but there we
   - What external courses or educational resources did I use to skill up?
 
 Product blogs and websites like techcrunch were useful.
-
+We built out this product and its features using the Y-combinator start-up school.
 
 - Program Manager (Commercial Sales and Marketing Group) CSEO | Microsoft 	|		Redmond, WA 	|		2019
+
   - What team or product did I work on?
+
+I worked with the director of CSEO to understand customer success. This team was a sales team that worked on managing relationships with enterprise customers on existing product use. If a customer was say Starbucks and Starbucks is managing 10 accounts over 5 regions that all manage a number of physical starbucks retail stores and each store in consuming a numner of seats of the microsoft office product, this team ensures every seat that is being paid for in this account chain is actually being used. There are some enterprise customers with large accounts who have too mant unused seats or credits in cloud services like azure or other customers who do not have enough seats and have a bunch of service requewst tickets asking for more seats.
+
+I spent a significant amount of time speaking with customer account managers to learn about the process of managing accounts and reading customer success stories to learn about how companies are currently using specifically the azure cloud services along with other Microsoft bundles to improve their business operations. Those stories are open to the public and you can read them here:
+
+https://customers.microsoft.com/en-us/home?sq=&ff=&p=0
+
   - What was the impact of this project or team in relation to the company?
+
+Because Microsoft as a company has a large B2B product offering, ensuring that the companies who use Microsoft products and services know how the products work and are able to solve their business needs is critical to the business function. This is the purpose of the customer success department and role. 
+
   - What did I work on?
+
+After joining the team I spent the first few months writing a document filled with recommendations on how to improve the customer success feedback channel from account examination to a meeting with the account manager. There was an entire team of senior program managers working on a product which would track a customer relation concern to the product team (ex: Microsoft Office) and put the customer in a funnel to understand the problem at hand and ensure the technical support representative was able to contact the individual and provide meaningful feedback.
+
   - Who did I work with?
+
+Other program managers working in Azure, Office and the executive suite. I also spent some time chatting with the data engineering team about account management given duplication was a huge problem with no current solution.
+
   - What assumptiosn did I make coming in?
+
+I didn't understand the purpose of such a large sales department in a company like Microsoft and the tier of customer who uses the product.
+
   - What technology or tools did I use?
+
+- Power BI
+- Internal Directory tool to find product owners working things pertinent to what I was working on and attend particular meetings
+
   - What hurdles did this team face?
+
+Documentation and meeting notes. There were nt formal meeting notes for many of the prior meetings and to there was a lot of duplication of work. There was a team of designers working on the customer success ticket project but they were duplicating a design study that had been completed 2 years prior but could not find the documentation of the work given new deisngers had come on board and old designer left. I had to dig in that internal directory and find designer who moved into other organizations in the company to find the old design documents and bring them into the conversation about the current process.
+
   - What was the outcome of the project?
+
+The ticketing system (customer success was launched). A new customer success director came on board and sort of overhauled the leadership team working on customer success so a lot of thigns changed.
+
   - What external courses or educational resources did I use to skill up?
+
+This role was about a chain of command and communication. It was primarily concerned with attending meetings and understanding who was responsible for doing what. At my level I didn't really have any say so with regard to decision making but I did have a lot of information to pass from one stakeholder to another. I became really effective at communicating via email succinctly.
 
 Exploring program management is important. It's very specific to the program that you are working on and understanding the needs of that program.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MRIXunZdW5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- A.I. Fellow | Insight Data Science 	|	San Francisco, CA 	|	2018
+- Artificial Intelligence (A.I.) Fellow | Insight Data Science 	|	San Francisco, CA 	|	2018
+
   - What team or product did I work on?
+
+This was a project based fellowship. I worked on understanding how reinforcement learning could improve emergency resident scheduling. This actually turned into a contraint optimization problem which is well known in the field of operations research.
+
   - What was the impact of this project or team in relation to the company?
+
+This was my first attempt at a deep learning project and my first intorudction to reinforcement learning as a concept. One of my research interests is meta-learning which is based on the concepts from metalearning.
+
   - What did I work on?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_sK_n_OHgHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Automating Scheduling for ED residents at UCSF
+
+Data Journalism: I have been interested in [big data](https://www.youtube.com/watch?v=gx9IGKLi2e4) for a while now because I am fascinated by telling stories with data. I spent this past summer at the New York Times understanding data journalism by listening to writers explain their writing process and the investigative journalism that goes into it. Data journalism goes beyond re-telling facts and seeks to explore the utility behind the information. Once you aggregate your data and understand the metadata affiliated with your data set, you can decide what sort of statistical analysis to run on the data. Artificial intelligence mixes up this process a bit and lets the neural network gain an understanding of your data and imply how probable an outcome is. The foundation here is still statistics and probability without some of the manual work.
+
+Hello Insight: This winter I decided I would spend time diving into an AI project end-to-end and that is why I decided to participate in the [Insight Data Science](https://insightfellows.com/data-science) fellowship as an [AI fellow](https://insightfellows.com/ai). During the first week of the fellowship, I explored projects and settled on a prompt to use reinforcement learning for control systems. The prompt was as follows:
+
+Currently, rules (control policy) for the mechanical operations (control loops) of most sophisticated machinery are set by human experts, which require tremendous time and domain expertise. If we can teach machines to learn these rules and reduce the reliance on scarce human experts, that has far-reaching impacts across all manufacturing fields.
+
+The complexity and diversity of control loops in hard technologies like metal 3D printing make them a good candidate for Reinforcement Learning (RL). RL algorithms usually require a lot of trials and it is expensive and dangerous to run physical trials. But combining RL with simulation will not only optimize the control policy for more efficiency and time saving, it also can disrupt manufacturing by developing new methods that require less complicated machinery.
+Use case:
+
+Scheduling of emergency medicine doctors in inner-city hospitals
+
+Deliverable:
+Deep reinforcement learning as a service platform that can learn a policy using a specific simulation environment or existing dataset. The service needs to interfaces with the engineer to gather the model and objective function and potentially take advantage of imitation learning and off-policy learning to improve the speed of convergence and gather bounds on each parameter to help reduce search space. The service should take advantage of asynchronous and parallel deep RL techniques to speed up the learning process as well. The accuracy of policy should exceed human generated policy.
+
+How did I think about the problem: I have a lot of experience in the hospital given earlier in my undergraduate studies I majored in chemistry and planned to attend medical school. In preparation for that, I volunteered in different departments at different hospitals to understand what life was like as a physician. One experience that I pulled from when thinking about this problem was my internship experience at the University of California, Davis Medical Center in the Pediatric Emergency Department. I worked an overnight shift two days per week, and there are a few things that stood out for me.
+
+The department was understaffed
+Emergency room nurses and physicians were overworked
+The UCD medical center has a certain number of nurses and doctors who are contracted to work in that particular facility. When schedules are being created for a particular facility you are only able to use the medical providers who are contracted to work there. If there are 150 shifts to fill in one medical center for a week and only 70 medical providers then the medical providers might be scheduled every day, and essentially under-worked.
+
+Why don’t medical facilities hire more workers?: This would make sense if supply met demand, but in this case, it does not. In the case of nurses and doctors, these medical practitioners are specialized. Not only do these providers need to attend medical school or nursing school they also need to choose a specialty. For my project, we are thinking about Emergency Medicine as that specialty. The emergency department specializes in keeping people alive when something has gone wrong. You might think about patients who are suffering from a stroke or someone who has a heart attack and needs immediate treatment. The pediatric emergency department is even more of a rare case because pediatric patients (children) have organs and bones which have not yet fully developed and are more sensitive to slight environmental changes. All in all it takes a while to train an emergency medicine practitioner and there just aren’t very many.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHla_QmfV5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the USA today there are 5273 emergency departments and 39,547 [Emergency Medicine providers](https://www.aamc.org/data-reports/workforce/interactive-data/active-physicians-sex-and-specialty-2015). There are about [139 million](https://www.cdc.gov/nchs/fastats/emergency-department.htm) visits to the Emergency Department each year, which averages to around 380,821 visits each day. If all the physicians in the USA were working all day, then each of these physicians would be responsible for ~10 visits.
+
+Problem: A reasonable Emergency Medicine (EM) shift lasts 8 hours but a typical shift lasts around 12 hours. There are work regulations limiting the space between shifts requiring there are at least 8 hours off between shifts. Given the scarcity of ED physicians and the amount of ED visits, there is more demand than supply and often the scheduling requirements are unmet and physicians are required to work more often than they should.
+
+UCSF: For this particular project I worked with the University of California, San Francisco to understand the way their emergency department was organized and it turns out it is a very complicated system. I was specifically working on understanding the scheduling system for the medical residents who are not yet doctors. The residents have rotations throughout the year and only a segment of this schedule involves rotating through the ED. When a new round of residents is assigned placement within the UCSF program the program admins get a block of resident assignment detailing which residents will be available and which particular weeks they will be available. The schedule looks something like this:
+
+![schedule]()
+
+Resident availability for the year, broken down by week segmented by blocks
+The rotation assignment in this spreadsheet are color coded and the pink and baby blue cells correspond to the time when the residents will be available to pick up shifts in the emergency department. This spreadsheet does not detail which particular shifts the residents will be working, there is an additional step which needs to be figured out to make that happen.
+
+Preprocessing: The first step involved in making this data usable for any algorithm is cleaning the data. It is necessary to reformat this data in a way which clusters either the weeks and the residents available for that week or the residents and a list of all of the weeks they are available. This is an important step because we currently have data for every department in the hospital and when each resident will be in the emergency department, but we only care about when the residents will be available to work in the emergency department.
+
+When looking at the data it is also clear that this csv is not going to be easy to work with given there are multiple data clusters on the same sheet and the columns and rows are not clearly organized. Even though all of the data is technically available we need to do a lot of manual work to get the data formatted in a way where we would be able to use it for the purposes of scheduling.
+
+Future work: There needs to be some front-end framework or properly labeled CSV file where whoever is inputting the data can input this information into the csv in a way which would allow the clustering of the data to be usable by other teams. I spent quite a bit of time thinking through the proper database design techniques for this particular use case, but my design process did not only build for the initial preprocessing step it also included steps for creating relationships between residents, shifts, and facilities which we will get into a little later in the post.
+
+Useful CSV format example:
+With a list of residents, how can we think about modeling the entire system?
+
+![schedule]()
+
+#### Designing the entire database
+
+What are the variables?
+![schedule]()
+
+Shifts
+![schedule]()
+
+Dimensions?
+![schedule]()
+![schedule]()
+
+How many residents work each shift?
+After assigning a letter to each shift, I then assigned another letter to each shift start and end time combination. Many of the facilities have the same start and end time combinations so we can assign the ‘shift’ to multiple facilities.
+
+![schedule]()
+
+Wireframe of white boarding session # 1
+Solving the scheduling problem using reinforcement learning
+
   - Who did I work with?
   - What assumptiosn did I make coming in?
   - What technology or tools did I use?
