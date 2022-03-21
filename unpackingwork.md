@@ -390,7 +390,7 @@ Problem: A reasonable Emergency Medicine (EM) shift lasts 8 hours but a typical 
 
 UCSF: For this particular project I worked with the University of California, San Francisco to understand the way their emergency department was organized and it turns out it is a very complicated system. I was specifically working on understanding the scheduling system for the medical residents who are not yet doctors. The residents have rotations throughout the year and only a segment of this schedule involves rotating through the ED. When a new round of residents is assigned placement within the UCSF program the program admins get a block of resident assignment detailing which residents will be available and which particular weeks they will be available. The schedule looks something like this:
 
-![schedule]()
+![schedule](-ed-current-sched.png)
 
 Resident availability for the year, broken down by week segmented by blocks
 The rotation assignment in this spreadsheet are color coded and the pink and baby blue cells correspond to the time when the residents will be available to pick up shifts in the emergency department. This spreadsheet does not detail which particular shifts the residents will be working, there is an additional step which needs to be figured out to make that happen.
@@ -404,24 +404,23 @@ Future work: There needs to be some front-end framework or properly labeled CSV 
 Useful CSV format example:
 With a list of residents, how can we think about modeling the entire system?
 
-![schedule]()
+![schedule](/images/er-sched-erd.png)
 
 #### Designing the entire database
 
 What are the variables?
-![schedule]()
+![schedule](/images/er-sched-variables.png)
 
 Shifts
-![schedule]()
+![schedule](er-scheduling-excel.png)
 
 Dimensions?
-![schedule]()
-![schedule]()
+![schedule](/images/er-sched-dimensions.png)
 
 How many residents work each shift?
 After assigning a letter to each shift, I then assigned another letter to each shift start and end time combination. Many of the facilities have the same start and end time combinations so we can assign the ‘shift’ to multiple facilities.
 
-![schedule]()
+![schedule](/images/er-scheduling-board.jpeg)
 
 Wireframe of white boarding session # 1
 Solving the scheduling problem using reinforcement learning
