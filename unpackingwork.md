@@ -25,7 +25,7 @@ is useful for others who are interested in understanding what I have done and ho
 - Dev Bootcamp Software Engineering 		Certificate of Completion   	(2017)
  
 ### WORK EXPERIENCE
-- Engineering Fellow | Blue Ridge Labs 	Brooklyn, NY 			(2020)
+- Engineering Fellow | Blue Ridge Labs 	Brooklyn, NY 	|		(2021)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -35,7 +35,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Product Manager | UMG Innovation Challenge 	Los Angeles, CA 		(2020)
+- Product Manager | UMG Innovation Challenge 	Los Angeles, CA |		(2020)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -55,7 +55,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Director of Innovation | Bloc 		Brooklyn, NY 			(2019)
+- Director of Innovation | Bloc 		Brooklyn, NY 	|		(2019)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -65,7 +65,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Product Engineer | Bloc 			Brooklyn, NY 			(2019)
+- Product Engineer | Bloc 			Brooklyn, NY 	|		(2019)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -75,7 +75,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Product Manager | (E.V.A.) 			Berkeley, CA 			(2019)
+- Product Manager | (E.V.A.) 			Berkeley, CA 	|		(2019)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -85,7 +85,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Program Manager | Microsoft 			Redmond, WA 			(2019)
+- Program Manager | Microsoft 			Redmond, WA 	|		(2019)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -125,7 +125,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Program Manager | Facebook 			Menlo Park, CA 		(2017)
+- Program Manager | Facebook 	|		Menlo Park, CA |		(2017)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -135,7 +135,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Data Analyst | Facebook 			Menlo Park, CA 		(2017)
+- Data Analyst | Facebook 	|		Menlo Park, CA |		(2017)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -145,7 +145,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Winter Design Fellow | IDEO 			San Francisco, CA 		(2016)
+- Winter Design Fellow | IDEO 		|	San Francisco, CA 	|	(2016)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -155,7 +155,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Entrepreneur In Residence | Kapor Center 	Oakland, CA 			(2016)
+- Entrepreneur In Residence | Kapor Center |	Oakland, CA 	|		(2016)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -167,7 +167,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What external courses or educational resources did I use to skill up?
 
 ### TECHNICAL INTERNSHIPS
-- Software Engineering Intern     New York Times | Data Engineering Team | Summer 2018
+- Software Engineering Intern (Data Engineering Team)   |  New York Times | Manhattan, NY | Summer 2018
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -177,7 +177,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Data Science Intern                         Acorns | Data Science Team | Fall 2017 
+- Data Science Intern (Data Science Team)        |           Acorns | Irvine, CA | Fall 2017 
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -187,7 +187,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Machine Learning Analytics Intern  Intuit | Transaction Labeling Group | Summer 2017
+- Machine Learning Analytics Intern (Transaction Labeling Group) | Intuit | Mountain View, CA | Summer 2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -197,7 +197,7 @@ is useful for others who are interested in understanding what I have done and ho
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Software Engineering Intern        Intel | Hardware Architecture Group | Spring 2017
+- Software Engineering Intern (Hardware Architecture Group) |       Intel | Hillsboro, OR | Spring 2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
