@@ -25,7 +25,7 @@ is useful for others who are interested in understanding what I have done and ho
 - Dev Bootcamp Software Engineering 		Certificate of Completion   	(2017)
  
 ### WORK EXPERIENCE
-- _**Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021**_
+- Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021
 
   - What team or product did I work on?
 
@@ -90,7 +90,7 @@ There is a follow up program called Catalyst, that all program fellowship teams 
 
 There was a large google drive full of resources that the Robinhood Foundation provides to all fellows. That was basically a source of truth along with the Mural maps that we created.
 
-- _**Product Manager | UMG Innovation Challenge | 	Los Angeles, CA |		2021_**
+- Product Manager | UMG Innovation Challenge | 	Los Angeles, CA |		2021
   - What team or product did I work on?
 
 This project was a part of an innovation challenge. We were grouped into teams generically and we met these people for the first time online.
@@ -128,7 +128,50 @@ We were introduced to many execs at Abbey Road, they really enjoyed watching our
 
 In this case I didn't use any but in the future I would encourage anyone else interested in this type of work to read the [Abbey Road Round-Up](https://www.abbeyroad.com/news/abbey-road-reds-monthly-round-up-march-2022-edition-3125), it's a monthly newsletter containing information about the state of music technology.
 
-- Robotics Fellow | Circuit Launch 		Oakland, CA 			(2020)
+- Robotics Fellow | Circuit Launch 	|	Oakland, CA 	|		2020
+
+
+  - What team or product did I work on?
+
+Circuit Launch is a playground for roboticists. Many people come into the space to work on building their robotics start-ups and they host a fellowship where you can get hands on building a robot from scratch.
+
+  - What was the impact of this project or team in relation to the company?
+
+There was no company this was just a learning experience for me. I had so may questions about how the hardware and software play together in the field of robotics and I was only familiar with computer simulations. I didn't have any idea about how to build and robot and get it working.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RcxiJRNPyCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  - What did I work on?
+
+We built reachy the robot.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv1M-qa3Z24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  - Who did I work with?
+
+In the lab there were roboticists who earned PhDs in robotics from UC Berkeley and other start up founders.
+
+  - What assumptiosn did I make coming in?
+
+I didn't know much about hardware at all. I didn't know what to expect.
+
+  - What technology or tools did I use?
+
+I paid attention to the hardware espects so I purposefully didn't work much on the software.
+
+  - What hurdles did this team face?
+
+Getting all the aspects to work together the hardware and the software can be difficult.
+
+  - What was the outcome of the project?
+
+We built Reachy the robot arm that could pick up a marker and write on the board.
+
+  - What external courses or educational resources did I use to skill up?
+
+
+There are courses on Coursera that teach introduction to robotics, those are in depth courses because they require you ro read through University two-term text books which describe complex topics in robotics.
+
+- Director of Innovation | Bloc | 		Brooklyn, NY 	|		2019
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -138,16 +181,8 @@ In this case I didn't use any but in the future I would encourage anyone else in
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-- Director of Innovation | Bloc 		Brooklyn, NY 	|		(2019)
-  - What team or product did I work on?
-  - What was the impact of this project or team in relation to the company?
-  - What did I work on?
-  - Who did I work with?
-  - What assumptiosn did I make coming in?
-  - What technology or tools did I use?
-  - What hurdles did this team face?
-  - What was the outcome of the project?
-  - What external courses or educational resources did I use to skill up?
+
+
 - Product Engineer | Bloc 			Brooklyn, NY 	|		(2019)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
