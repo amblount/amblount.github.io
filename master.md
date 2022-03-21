@@ -188,9 +188,20 @@ I found Iseme through her second channel with her boyfriend. They have the most 
 #### Tee Noir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwtueIlcWR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Tee brings the tea, literally. You might have some subtle topic that you want to unpacka nd you don't know where to start. Let Tee bring you from a place of confusion towards understanding. Watching her videos you can tell she spends a lot of time thinking about how to breakdown complex topics into well understood metaphors. She is also able to be relatable to Gen Z - which is difficult because as a millennial I don't understand anything about Gen Z at all, that is until Tee. Now I feel like a Gen Z, pro. It's the Euphoria character breakdowns that are justt so sensical. Watching the show on my own I was all over the place. I couldn't understand why anyone would behave the way some of the Euphoria characters behave, I was lost and then tee found me and straightened me up. She clarifies a lot of the gendered terms you may not understand and brightens up your screen with her complexion. Let Tee guide you and laught with her while she lays on the Jaimacan accent. It's always a good time.
+
+#### Octavia B
+<iframe width="560" height="315" src="https://www.youtube.com/embed/051SJ8ye9lI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Breakfast at Tiffanys?
+
+If you get the reference then this is your girl. I know there are a ton of girls on the internet whi claim to be that girl, but Octavia IS _**THAT GIRL**_ she has the clothing hauls and ALL of the makeup. You watch her videos and you just live! She is just ALl that and a bag of chips. If you need inspiration on how to be independent and fabulous than look no further than the one and only Octavia. She is going to lead you right into the independence and self confidence you need to shed the insecurities and be EXTRA fabulous.
+
 ### Black Youtube Shows
 - To my sisters
 <iframe width="560" height="315" src="https://www.youtube.com/embed/btX8ckmccZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You know how you wish you had those aunties that would explain stuff to you and you just don't? Well now you do, these women are here to talk to you about any and everything modern day adulting and they go deep every week. Lets unack black girl, lets UNPACK!
 
 - the grapevine
 - the Terrell show
