@@ -104,20 +104,25 @@ I think young people are interested in role-models or other humans who have expe
 #### Kidology
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HaCEUrVJfTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Kidology creates long form content about modern issues in society from her personal frame of reference. She is an orphan who aws raised in a South African boarding school having transitioned through two white gaurdians and having to move to the UK to complete secondary school. This particular video unpacks tribalism but other videos talk about navigating social class issues and paying for University as a low income student. The talks about opportunity and a lack there of and what that means for her life chances and her dreams about her future and the way she looked at the world. There is no much intersectionality in her story and if I think about growing up with American Girl dolls, kidology could definitely have been a girl in the series with her own doll unpacking her very unique experience.
+
 #### Fab Socialism
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yOck0QzHCzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Fab Socialism has changed the name of her channel a few times but her content pretty consistently unpacks the ways in which social media and popular culture inpact modern youth in society and what we should do about it. She creates content talking about upward mobility and the struggles of adulting as a modern day adult. She compares those who are apartment living to those who are houseless and breaks down some economic philosophies in terms of where we might go as an American society. I think her takes on the music industry and the social politics of players in the music industry is very relevant to the youth of the day given so many peoples focus on pop culture and the way it is changing the world we live in.
 
 #### KAI Foster
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aq6YWy07_1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I found Kai a bit late in the year and I hate that. She was an undergraduate student at an HBCU, Howard when she started her channel. I had no idea how relatable her content could be. She had conversations with her female peers about men and her male peers about sports and academia. She has talked a lot about mental health and experimenting with drugs.
+I found Kai a bit late in the year and I hate that. She was an undergraduate student at an HBCU, Howard when she started her channel. I had no idea how relatable her content would be. She had conversations with her female peers about men and her male peers about sports and academia. She has talked a lot about mental health and experimenting with drugs. Unfortunately as of today Kai has decided to stop creating content due to harrassment by another content creator but hopefully Kai leaves her content up, so that more women of color, especially black women are able to explore and unpack the content.
+
 She is human 2.0, I love her ability to express her feelings
 
 #### As TOLD by KENYA
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-77wjcHWrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Kenya was a 3rd year law student, but decided to drop out of law school after having a lot of success on YouTube and purchasing a home. Her content is so relatable. She is like the voice of reason in the black community having a very close thumb on black twitter at any given point in time and is able to share why some mainstream event or statement from some god awful celebrity is just that, trash.
-It’s refreshing. Join her patreon community
+It’s refreshing. Join her patreon community. Kneya is also a booktuber and a lot of her more recent content is full of book reviews. There are not many black book tubers so Kenya is an ni you might want to hop on.
 
 #### CAMRYN Elise
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x5aySAM7R4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -140,20 +145,25 @@ Miree is the girl next door that has experiences in her neighborhood and in her 
 Let’s talk about video essays
 All of things that you probably brush over in conversations with other people, Khadija actually breaks down in her video essays. It is clear she actually prepares the content she would like to talk about by reading articles on the subject matter and listening to other YouTubers or academic lectures on the topic. She uses all of that data to create or validate her own opinion on a lot of hot topics that are of importance in the black community and pop-culture.
 
-
 #### Kianna Naomi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jDkibxbVw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Kianna moved to Colombia 🇨🇴 and Kelly moved to Texas, it was incredible.
+Kianna started making clothing haul videos and pulled her number of subscribers into the millions. She was young back then and trying to find her voice. Now that she has grown into a young adult Kianna is creating content about exploring her personal style and traveling around the world having most recently moved to Colombia. Some of her videos that have inspired me include the videos where she talks about creating a routine to stay in shape and how she learned to love her 4C hair, but it was a journey for her to get there. Her personality is light and fun, I think that if you need an emotional pick me up, Kianna might be your girl.
 
 #### Kelly Stamps
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpUhkASzIgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Kelly Stamps owned the internet in 2021. She turned herself into an internet meme and was able to bring ont camera a new black female character we hadn't seen before - Kelly, She is extremely sarcastic and a bit whitty, but always honest. She is effortlessly humorous and extremely cute. She has incredible style and has taken minimalism to another level. We all live for the lessons we learn from professor stamps and are all enrolled in the Stampeded University. Long live Kelly!
+
 #### Vanessa kanbi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HxsEX2CJu2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Vanessa Kanbi has moved her family from the UK to Ghana West Africa and she wants everyone to know how great it is. I think that she had many questions about what it was like to live in Africa before she moved there and once she did she wanted to be a resource for anyone else who had questions. She makes videos where explores different homes in Ghana and informs viewers about the price of the home and gives you a good idea of what the ammenities are of the unit and the surrounding envirnment.
+
 #### Joulzey
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRhhUlSTtbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Joulzey might be on of he first black content creators to share what the middle class black experience is really like. She talks a lot about her college experiences and the interestinf characters of other races who participated in those experiences with her. She breaks down some experiences she had with men and what she would do differently today. She is extremely relatable. She is currently enrolled in a master program in sociology I believe and hosts a book club that you can join to reac some of the content she is reading in class. She also regularly interviews the authors of the books she is reading so you will get an opportunity to ask the authors your burning questions. She has broken down Bell Hooks books and the like. Joulzey might the channel you want to explore if you are that girl who ilkes to get her read on.
 
 #### sensei seren (aishimatsu)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j4Pw0lR3_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -179,7 +189,21 @@ Kianna moved to Colombia 🇨🇴 and Kelly moved to Texas, it was incredible.
 - the breakfast club
 - hot97
 
-Instagram
+### Streaming TV Shows
+
+#### Little Fires Everywhere (Hulu)
+
+#### A Black Lady SketchShow (HBO)
+
+#### The Amber Ruffin Show
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4tG7wA2vqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+#### Grownish
+
+#### Star Trek Next Generation
+
+### Instagram Accounts
 - amazed by Kay
 - tyla
 
