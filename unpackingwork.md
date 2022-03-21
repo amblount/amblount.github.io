@@ -90,16 +90,44 @@ There is a follow up program called Catalyst, that all program fellowship teams 
 
 There was a large google drive full of resources that the Robinhood Foundation provides to all fellows. That was basically a source of truth along with the Mural maps that we created.
 
-- Product Manager | UMG Innovation Challenge 	Los Angeles, CA |		(2020)
+- _**Product Manager | UMG Innovation Challenge | 	Los Angeles, CA |		2021_**
   - What team or product did I work on?
+
+This project was a part of an innovation challenge. We were grouped into teams generically and we met these people for the first time online.
+
   - What was the impact of this project or team in relation to the company?
+
+Most artists earn a significant portion of their income touring and performing. Due to the COVID-19 lockdown many artists were struggling to keep engagement with their fans and Universal Music Group reached out to developers and innovators in their network to try and get ideas around how they could continue to engage. 
+
   - What did I work on?
+ 
+ [Duets](https://drive.google.com/file/d/1b04Ks4Zh3iNWSKIOvIUhQdohTxtaPkFd/view) - the first social content creator platform built to capture human movement and music.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cs-zCNkC5fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
   - Who did I work with?
+
+I worked with another product manager a software engineer and two developer advocates who worked on music products in the past.
+
   - What assumptiosn did I make coming in?
+
+I didn't think I would hear from industry professionals at Abbey Road or other higher level execs who would have opinions on the state of social media platforms like tik tok and others. I didn't realize how much of an impact social media was having on the business of music. Everything changed during and after COVID-19.
+
   - What technology or tools did I use?
+
+We prototyped and the software engineer on the team used javascript to help create the demo. We also use AR-kit a bit.
+
   - What hurdles did this team face?
+
+We didn't have much time together given everyone had fulltime jobs outside of the project and this was only a two week sprint.
+
   - What was the outcome of the project?
+
+We were introduced to many execs at Abbey Road, they really enjoyed watching our project demo.
+
   - What external courses or educational resources did I use to skill up?
+
+In this case I didn't use any but in the future I would encourage anyone else interested in this type of work to read the [Abbey Road Round-Up](https://www.abbeyroad.com/news/abbey-road-reds-monthly-round-up-march-2022-edition-3125), it's a monthly newsletter containing information about the state of music technology.
+
 - Robotics Fellow | Circuit Launch 		Oakland, CA 			(2020)
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
