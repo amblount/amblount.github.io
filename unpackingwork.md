@@ -426,12 +426,32 @@ Wireframe of white boarding session # 1
 Solving the scheduling problem using reinforcement learning
 
   - Who did I work with?
+
+UCSF Lead Resident to understand scheduling challenges
+
   - What assumptiosn did I make coming in?
+
+I didn't know much about reinforcement learning.
+
   - What technology or tools did I use?
+
+    - Google Colab
+    - Google OR (operations research tools)
+    - OR Tools [Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
+
   - What hurdles did this team face?
+
+I had a problem setting of the shifts and residents in the system. Creating the OR space was challenging. The design of the problem given all of the constraints was a challenge.
+
   - What was the outcome of the project?
+
+A calendar with shifts.
+
   - What external courses or educational resources did I use to skill up?
 
+I read a bit more about reinforcement learning. Deep Mind has a nice course.
+ - [Deep Mind: Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+ - [Reinforcement Learning - an Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) Richard Sutton - The Intro RL Book
 
 - Entrepreneur In Residence | Universal Music Group (UMG) |		Los Angeles, CA 	|	2018
   - What team or product did I work on?
@@ -443,7 +463,6 @@ Solving the scheduling problem using reinforcement learning
   - What hurdles did this team face?
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
-
 
 - Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
   - What team or product did I work on?
