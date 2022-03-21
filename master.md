@@ -94,19 +94,83 @@ Podcasts
 - hella black podcast 
 
 YouTube 
-- Kelly stamps
-- socialists
-- Khadijah mbowe
-- camryn Elise
-- kiana Naoimi
-- joulzey
+
+## Black YouTubers That Made My Year Great
+
+Personally I am inspired by so many forms of content and so many different people, but black YouTubers have really made 2021 possible for me and some of the content really changed my perspective and gave me some validation that I needed in adulthood. There are some stories that have gone untold for too long and perspectives in mainstream, (read white) society that are not based on facts or reality.
+I understand the impact and significance of music and musical artists but, a lot of times these artists are just make believe and they are singing songs about experiences that don’t pertain to their own lives.
+I think young people are interested in role-models or other humans who have experienced something and found a way to deal with it. They want to learn from these experiences.
+
+### Kidology
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaCEUrVJfTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Fab Socialism
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOck0QzHCzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### KAI Foster
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aq6YWy07_1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I found Kai a bit late in the year and I hate that. She was an undergraduate student at an HBCU, Howard when she started her channel. I had no idea how relatable her content could be. She had conversations with her female peers about men and her male peers about sports and academia. She has talked a lot about mental health and experimenting with drugs.
+She is human 2.0, I love her ability to express her feelings
+
+### As TOLD by KENYA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-77wjcHWrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Kenya was a 3rd year law student, but decided to drop out of law school after having a lot of success on YouTube and purchasing a home. Her content is so relatable. She is like the voice of reason in the black community having a very close thumb on black twitter at any given point in time and is able to share why some mainstream event or statement from some god awful celebrity is just that, trash.
+It’s refreshing. Join her patreon community
+
+### CAMRYN Elise
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x5aySAM7R4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My girl Cam, she is just a wonderful explainer of the tik tok mess and cultural appropriation. It is clear she has been the one black person in a white space for a while, just like me,
+It’s exhausting
+
+She has her hand on the culture and we all need to hear it. If I has a big sis like Cam, I could take over the world. Seriously. Black girls come through.
+
+### Most of MIREE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRlui9C-KuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+MIREE gave me hope for gen Z, when I found her channel I knew, this next generation of girls and just built different. We are no longer in this perpetual state of black girl poverty and injustice and bullshit that the television loves to promote, we have evolved into something else.
+We are clearly what we have been waiting for, as in no one else is coming
+Miree is the girl next door that has experiences in her neighborhood and in her community. Black experiences, high school experiences, family relationships — really all the normal average parts of life. In her case her mother is a therapist and has taken a lot of care in the way that she raised her child and thus how Miree shows up in the world. You should watch her content, you won’t be disappointed.
+
+### KHADIJA Mbowe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EtfE-BsB5v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Let’s talk about video essays
+All of things that you probably brush over in conversations with other people, Khadija actually breaks down in her video essays. It is clear she actually prepares the content she would like to talk about by reading articles on the subject matter and listening to other YouTubers or academic lectures on the topic. She uses all of that data to create or validate her own opinion on a lot of hot topics that are of importance in the black community and pop-culture.
+
+
+### Kianna Naomi
+
+
+Kianna moved to Colombia 🇨🇴 and Kelly moved to Texas, it was incredible.
+
+### Kelly Stamps
+
+### Vanessa kanbi
+
+### joulzey
+
+### sensei seren (aishimatsu)
+
+### Adeola afuna
+
+## Youtube Black Shows
+- the grapevine
 - the Terrell show
-- sensei seren (aishimatsu)
-- Adeola afuna 
-- Vanessa kanbi 
 - the breakfast club
 - hot97
 
 Instagram
 - amazed by Kay
 - tyla
+
+
+
+
+
+
+
+
+
