@@ -52,6 +52,38 @@ I am more interested in data journalism and sentiment analysis now, so I am writ
   
 https://www.linkedin.com/pulse/adda-twist-scienist-rosie-revere-engineer-alivia-blount
 
+Having skills in technology is just useful becauwe you can work and create. I learned early on that there was too much I didn't understand about art as an industry and I would need to keeo a job during the time that I was trying to build a creative empire. You can do this do with Google Online Certificates. They offer financial aid options and you are able to learn skills like project management and data analytics all from the comfort of your own home after work. With about a year of investment in time you could learn a new skill that should be able to pay for your cost of living in any major city so that you can spend your off time working on creative projects that bring you joy.
+
+### I am for sure just an arts school girl at heart
+
+
+- Elementary School: Berkeley Arts Magnet (Dance)
+- Middle School: Longfellow Arts and Technology (Dance)
+- Primary School 1: Oakland School For the Arts (Dance - transfer)
+- Primary School 2: Berkeley High School Graduate (Diploma)
+- Community College: Berkeley City College - Associates Degree (General Ed)
+- Uni: University of California, Davis - Bs (Computer Science. incomplete)
+
+I could spend more time and go back to school, but I really enjoy living on my own in my own apartment. I pay marketplace rent and that requires a job.
+
+I like to mention my primary and secondary school experiences because I spent so many of my years in arts school. It was a bit more than a hobby for me. At the time there weren't many people who were able to turn a passion for hip-hop dance into an actual career that would sustain a meaningful quality of life. This is why I made the choice to study something technical in case I needed to get a real job. I do enjoy writing about my prior experiences in dance and in technology and telling those stories online.
+
+#### Short excerpt from a digital scrapbook
+
+It's something that I like to do when I am bored because I can think back to special moments in my life. Growing up I had a lot of extra-curricular activities, and I was able to meet so many cool people and travel around the bay area. The Bay Area is a really diverse place to live and so meeting new people from other neighborhoods and cities means that you will probably come across another culture from another part of the world. This scrapbook is a collection of some of my favorite moments and details how I got into certain activities and what those activites meant to me. Unfortunately growing up although I participated in performance arts I don't have many videos of the event, but I can still tell the story of what happened.
+
+This is a digital scrapbook that I am creating for you to get a sense of the ways that utilized my times outside of academics throughout primary and secondary school. I met a LOT of great friends and was able to travel all around the country. When I was in high school all of the students were clustered by social groups and where you hung out on campus determined what your typical social interests were. I was very interested in music and fashion so I hung out at the bricks for about 15 minutes each day after my final period before I attended my first after school program or the library. I transferred from Oakland School for the Arts, where I studies dance to Berkeley high and I was behind academically. I had to spend a lot of time in the library after school to get tutoring for my schoolwork and use the computers to do my homework. When I think back I was on the right track, but I lacked appropriate study skills so I was unable to think through how the concepts that I was studying applied to my real life and how to apply that information to my classroom experience. One really great take away from my senior year, which was the year I took this picture, I had a really great physical exercise routine. I had one physical injury in arts school where I hurt my knee and I was afraid that if I injured my knee any further I wouldn't be able to dance any more EVER. Instead of continuing ballet training, I enrolled in hot yoga or Bikram. It's a really great style of yoga that stretches muscles you don't normally use and makes you sweat.
+
+<p float="left">
+  <img src="/images/IMG_7981.jpeg" width="175" />
+  <img src="/images/IMG_7982.jpeg" width="175" />
+  <img src="/images/IMG_7984.jpeg" width="175" />
+  <img src="/images/page0.jpeg" width="175" />
+  <img src="/images/page0%20(1).jpeg" width="175" />
+  <img src="/images/page0%20(2).jpeg" width="175" /> 
+  <img src="/images/images/page0%20(3).jpeg" width="175" />
+</p>
+
 ### I won a few hackathons and was able to work with Universal Music Group 3x
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJxb6WepYO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
