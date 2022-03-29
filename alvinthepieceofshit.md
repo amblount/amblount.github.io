@@ -18,7 +18,9 @@
 | 3/23/2022 | Mailed Letter  | Acting Presiding Justice James Richman  | First District Appeals  | Req. Insurance Info   |   
 | 3/23/2022 | Mailed Letter  | Associate Justice Therese Stewart  | First District Appeals  | Req. Insurance Info   |   
 | 3/23/2022 | Mailed Letter  | Associate Justice Marla Miller  | First District Appeals  | Req. Insurance Info   |
-| 3/23/2022 | Called | Leslie G. Landau  | CCC Family Law Dept 24  | More Info, told to send letter   |   
+| 3/23/2022 | Called | Leslie G. Landau  | CCC Family Law Dept 24  | More Info, told to send letter   |
+| 3/24/2022 | Child Support Hearing | Leslie G. Landau  | CCC Family Law Dept 18  | Rescheduled no proof of service   |  
+| 3/29/2022 | File Unlimited Civil Claim  | Alameda County Family Law + Commisioner Boydine Hall Vs. Blount | Rene C. Davidson Civil Court  | case # 22CV009068  |  
 
 
 
