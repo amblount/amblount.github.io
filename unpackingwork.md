@@ -500,14 +500,15 @@ I didn't know anything about metadata in music or ownership.
 
 #### Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
 
-
   - What team or product did I work on?
 
-    International developer relations team inside Facebook.
+I worked with the Developer Relations Team which is housed inside a larger marketing group within the company working to support developers consuming the Facebook API. At this point I was working on a meaningful engagement modol which would measure social connectedness in online groups. This is one of the high-level North Stars of the larger platform data science initiative so I worked with the Data Science Group within the Platform sector of the company to read some of their findings and understand what meaningful engagement meant.
     
   - What was the impact of this project or team in relation to the company?
     
-    Content management system for developers to gain pull resources from.
+I helped redefine meaningful engagement in online groups by posting targeted content in one specific group and traveling to the physical location of the event and speaking with the developers in person. This in person project increased meaningful engagement in one online facebook group and writing about it helped the data science group improve the meaningful engagement model with targeted content.
+
+[Read About The Research Study Here](amblount.github.io/developercirclesfieldresearch)
 
   - What did I work on?
     
@@ -540,128 +541,22 @@ This post is general enough that without any background each student should be a
 
 Before and after each learning session, students should come in with questions that the instructor should be aware of and hopefully get those questions answered during the online time together. After a learning session, students should walk away with new questions with they should have the skills to research on their own. In my own experience as an online learner, it is really important for me to use my notepad effectively. Writing down topics that I am unfamiliar with and writing down questions that I need to get more clarification on are important skills that have helped me level up and should be encouraged for online learning.
 
-
 Office Hours
 
 Zoom calls or google hangouts are going to be the main source of office hours, but students need to be encouraged to use them because most do not understand what they are or how they can be useful. Short video clips welcoming students to the office hour and giving them examples of topics that could be discussed during the office hour are useful posts to create around the time of the discussion, maybe an hour or two before the session starts. Reminding students to create a calendar invite for the event and possibly add their questions to it would be a useful task as well.
 
-Differences in Geography
-
-Where a student lives
-
-How that student studies
-
-Where does that student study
-
-How many hours does a particular student study
-
-What does studying look like?
-
-How do students engage with the material?
-
-The developer circle program was divided into regions:
-
-North America
-EMEA
-LATAM
-India
-South East Asia
-We had five program managers who would manage the developer circles in each region. This included tracking and helping to plan offline events. Traveling to different cities to support the events in person and constructing weekly, bi-weekly, and monthly reports on current events in region and circle. On a very high level after briefly speaking with the program managers it was clear that each program manager had a different way of handling events in each region, but there was no aggregate data on offline events. It seems the events would happen but there was no attendance data or way to measure the success or failure of an event. In an attempt to understand the problem more in-depth I created a survey that has a series of questions related to offline events. I wanted to understand the entire process from when there was an idea for an event to during and after the event took place. The survey consisted of questions like:
-
-How many events happen in your region each month?
-How do you track this?
-How do you communicate with your developer circle leads to help them plan an event?
-What tools do you use during this process? (messenger, email, google docs)
-How do you or the lead advertise for the event?
-What social media tools have been successful in your region?
-How do you measure the success of an event?
-How are you currently collecting attendance data for your events?
-How do you know how many events happened in your region?
-After reviewing the responses from this survey, I spoke with each program manager individually for a 1-hour conversation about how we could create more efficient processes to handle event management. I took thorough notes from these conversations and wrote reports on my findings after each step of the process and shared these notes with the global management team. After reviewing all of the responses to the phone conversations it was clear that the current event creation technology tool we proposed the developer circle leads use, was very hard to use, and the developer circle leads needed training on how to use the tools. It was also very clear that because the current program managers were not technical they were struggling with finding content for the offline events. The developer circle leads were in charge of creating content for these events, but frequently they had no idea where to start in creating material for the events. The developers were looking for training to help them get better jobs or their first development jobs and they needed reference material for the tutorial they wished to present on.
+Other Interesting Areas To take into account
+ - Differences in Geography
+ - Where a student lives
+ - How that student studies
+ - Where does that student study
+ - How many hours does a particular student study
+ - What does studying look like?
+ - How do students engage with the material?
 
 What is it like to be a developer in the developing world?
 
 The infrastructure problems of the program were clear to me at this point, but I was not sure what it was like to be a developer in a developing country and I had a hypothesis that the needs of a developer in a developing country were not the same as the needs of a developer in America. I would frequently read over posts and comments in the most and least active (in terms of online active engagement) groups and noticed the quality of the posts was pretty poor. I started to think about how developers in a developing community could have meaningful events with low quality online content. I hypothesizes that if the content in the online group were of high quality then the developers in the group would spend a lot more time consuming that content and the engagement in the groups would go up. I also assumed that there was a lack of context on the part of the developers in the group on how to use the online group to get their needs met.
-
-
-The Field Research Study
-
-One of the program managers in EMEA mentioned there was a great female lead in Tunis, Tunisia who lead a very engaged circle and that if we had the capacity we should support one of her events. I saw this as an opportunity to test my assumptions and created a plan on how I would do this. A few months earlier I attended the field study masterclass by Jan Chipchase and used his textbook the Field Study Handbook to conduct the study.
-
-Here is what I did:
-
-Made a warm introduction to the developer circle lead, mentioning that it would be awesome to support her upcoming event.
-Asked her what type of content would be presented during the event and how I could help support her.
-Based on her content, I created a pre-event content guide filled with online resources explaining the topic more in depth and how to apply technical frameworks to solve the problem.
-I also planned to host a pre-event workshop detailing what data science looks like on my team at Facebook and what resources I used to get into data science online.
-Asked for recommendations of group member who I could reach out to to understand the development ecosystem in the area more in depth and interview these members.
-Created a survey for the selected developers to describe their interest in the developer circle community and specifically what the community could use to become a more active and engaged community.
-Discussed the survey results with my team of program managers to get some initial feedback.
-Spoke with the EMEA region program manager about particulars on traveling to the region
-No alt text provided for this image
-The refined user research design process
-
-I did not always have such an in depth research process and I think that it is important to note the way that I became such an in depth product researcher.
-
-Back in 2016, I started my web development boot-camp experience. I didn't have much coding experience and so in a lot of the group projects I worked on initially, I was the front-end web designer. I spent a lot of time building front-end web apps using Google's Material design and a Firebase backend. The documentation for both of these frameworks is really easy to get started with so I got to know a lot about making a website look pretty. The more and more I built web applications the more I started to think about the amount of time that I was spending rebuilding for the user experience. At the time I was unfamiliar with what a user-experience designer actually was, but I did know that if I spent more time initially speaking with the end users of my product I would be able to build a better product. This sent me down an entire rabbit hole and caused me to change the way that I would build projects.
-
-Before integrating user experience design + research:
-
-Building a product looked something like this:
-
-Ideate with other software engineers about what it is we would like to build
-Search through documentation online to understand what data we have available which we could use for the project
-Create a few general wireframes, which would pictorially represent a login page, a sign-up page and one page which displayed the core functionality of the app
-After integrating user experience design + research:
-
-Building product looks more like this:
-
-Find a question out in the world which has yet to be answered in a way suitable for me or someone else
-Explore ways in which other people have tried to solve the problem before
-If someone has successfully designed something useful before, think through how I could improve that product, and what would make my solution better and explicitly how.
-If I can not find anyone who has built a similar solution, explore why others did not find the space worthy enough to build in and weigh the costs and benefits to spending time and resources building in said space
-3. Chat with as many product owners or end users as possible to understand how and why they would this product
-
-Get these people to draw pictures of solutions they imagine
-Ask them for recommendations to other similar products with some component which they find outstanding, and figure out why
-4. Build a prototype of the product
-
-5. Determine if any team (in a large org) is willing to allocate financial resources to the project, validating its build
-
-6. Explore the engineering resources available for maintenance of the product
-
-If there is only one engineer available to build a product and the team is trying to scale a Weebly, or WIX solution would be more valuable
-If there are 2-10 engineers allocated to the project and there are more than 100,000 anticipated end users, you can think more about scale and speed for architectural design solutions
-7. Create a technology stack design implementation over sprints
-
-Based on the answers to the questions above you can determine things like:
-cloud versus local storage, and how much
-database schema design
-API integrations
-User account management
-security and data privacy
-analytics integration
-8. Create a project plan
-
-As you create a project roadmap, you understand in the amount of time you have dedicated to a particular project how much can you reasonably get done
-Figure out what are the most important features to implement right away to get a minimum viable product
-Figure out how to place additional features into production accordingly in sprints
-Match the resources to a budget, if you have a roadmap with 12 months of development work required but only enough money for 3 months of development time, you need to explore which features from the development roadmap are the most important and place all of them in the first sprint and make sure that the developers are only working on building those particular features, nothing more and definitely nothing less
-9. Start building!
-
-Identify the problem and build the solution
-
-After the trip, I learned that developers in the developing countries are trying to bridge the gap between traditional education (university) and skills which would make them ready for work. They have a broad range of interests but do not currently have the skills to contribute to the workforce at the moment. I realize then that we needed a product which would help these students and graduates bridge this gap. In development, we already had a partnership with Kaplan to provide web development training in an online format, but the team had not fully examined what would be the most useful curriculum to distribute. As a person who graduated from dev bootcamp, the physical bootcamp which distributed the Kaplan content, I was able to give a lot of insight into how and why this curriculum would be relevant or not. I also had a broad range of knowledge about what other topics students in the field cared about.
-
-I created a project plan which detailed the topic areas which I determined students cared about and would need practical skills to move forward. I then prioritized the three tracks which we could build the curriculum for by sourcing the web and writing guides for.
-
-Check out one of the groups:
-
-You can browse around the site. The guides that you see, I write the text for, the links were sourced by me, and the learning path was developed by me, the sequence of steps.
-
-I managed a team of engineers which we hired as external vendors, there were 5 engineers, one user experience designer, and a database administrator. We had daily 30 minute stand up sessions where we discussed the progress of the project. They had an external JIRA board which I monitored and we created a project road map dividing the project into sprints over 12 months. The first sprint ended with the launch of the product at F8, and we decided to postpone the production of the product until we understand how the users were using the product so that we would understand where exactly we should invest more money.
-
-This project had a budget of $1.5 million dollars to serve a community of around ~150,000 developers. This product was intended to serve as an introductory tool to help developers go from University graduates with no practical work experience to entry-level developers with a few projects under their belts. There are many online resources for learning how to code, but some have a very high price tag per/ head so we did not have the budget to finance each person and other programs did not contain the practical personalized learning experience which has been proven to promote understanding and help the new learning process and digest new information. This was an important differentiating factor when thinking about how we would structure the program because we did not want to provide students with surface-level "Simon Says" projects because the learners would not be able to transfer the understanding to an employer and the value would be lost. We wanted to make sure to include multiple perspectives from a variety of content creators so that consumers with different learning styles would be able to consume the ideas being presented. This was really important in making sure that the funds we did have for this project were being managed well and would provide utility to our community.
 
   - Who did I work with?
   - What assumptiosn did I make coming in?
@@ -684,15 +579,68 @@ This project had a budget of $1.5 million dollars to serve a community of around
 
 
 #### Data Analyst | Facebook 	|		Menlo Park, CA |		2017
-  - What team or product did I work on?
-  - What was the impact of this project or team in relation to the company?
-  - What did I work on?
-  - Who did I work with?
-  - What assumptiosn did I make coming in?
-  - What technology or tools did I use?
-  - What hurdles did this team face?
-  - What was the outcome of the project?
-  - What external courses or educational resources did I use to skill up?
+I was recruited to this team from my data science internship with Acorns. At this point in my career, I was just beginning to understand big data and how to run analytic queries on large data sets. I had some experience working with large data sets at Intel and Intuit but the access that I was promised here was the largest amount of data I had ever worked with. Facebook as a company is divided into working product groups so there are groups focusing on WhatsApp and Instagram or platform vs mobile. All of those working groups have product managers and software engineers who are building technologies specific to that platform.  
+
+ - What team or product did I work on? 
+
+I worked on the developer relations team. Facebook as a platform has open-source tools and gives developers access to some of the data on the platform. If you are familiar with the Facebook login button that is available on some platforms like Spotify, then you have a general idea of the way that other companies might use Facebook data. Because it is a social media platform, other platforms who are building social relationships might want to have some sort of social component that shares information about relationships. If you have 100 friends on the Facebook platform instead of just sharing information on the website, you can also integrate the user experience of the connected platform by pulling in data from Facebook like the names of friends and their geographic location and inviting them to join the connected platform. That is a very common experience of a developer looking to use the Facebook API. 
+
+ - What was the impact of this project or team in relation to the company? 
+
+Initially I was tasked with understanding how to support the developer circle online communities and the program managers on the Facebook side. At this point in the company's history there were 119 developer circles spread across the globe. The purpose of the online circles or Facebook groups was to support developers in online spaces who wanted to use the Facebook API and improve their technical skills. Across the globe developers were coming together in person to discuss technical topics and share their projects. A part of my job as an incoming analyst was to understand the health of these groups and assess the engagement in the groups. The groups were split into regions of the world: 
+
+ - EMEA 
+ - APAC 
+ - LATAM 
+ - North America 
+
+Each of these regions had its own program manager who oversaw the developer circles in the region. The program manager oversaw sponsoring in person events in the region and supporting events in person as often as possible. Program managers also communicated frequently with their Dev-C leads who were community members in the online groups who would find resources on the ground like venues and food for the events.  
+
+ - What did I work on? 
+
+As an analyst on this team I found data-sets which were relevant to the developer circles community. The Facebook platform data was divided into many sections and data warehouses. Some of the data I needed was in the platform warehouse and I had to request access to that warehouse because I was not a data engineer on that team. Facebook as a company has its own tools and infrastructure which manages the data, and every data engineer goes through datacamp (an internal training program for all data workers) to learn how to access and query the data using the internal tools. I spent a lot of time talking with data engineers from other warehouse groups and figuring out which tables contained the data I needed. Once I had an appropriate dataset that contained data related to active monthly users, total member in the group higher level statistics that were relevant to the program function I produced bi-weekly data visualizations using Tableau and shared these with the program managers. I created a visualization for each region so that it was clear what they were looking at and produced a written report explaining that data. 
+
+Understanding Events
+
+We had five program managers who would manage the developer circles in each region. This included tracking and helping to plan offline events. Traveling to different cities to support the events in person and constructing weekly, bi-weekly, and monthly reports on current events in region and circle. On a very high level after briefly speaking with the program managers it was clear that each program manager had a different way of handling events in each region, but there was no aggregate data on offline events. It seems the events would happen but there was no attendance data or way to measure the success or failure of an event. In an attempt to understand the problem more in-depth I created a survey that has a series of questions related to offline events. I wanted to understand the entire process from when there was an idea for an event to during and after the event took place. The survey consisted of questions like:
+
+ - How many events happen in your region each month?
+ - How do you track this?
+ - How do you communicate with your developer circle leads to help them plan an event?
+ - What tools do you use during this process? (messenger, email, google docs)
+ - How do you or the lead advertise for the event?
+ - What social media tools have been successful in your region?
+ - How do you measure the success of an event?
+ - How are you currently collecting attendance data for your events?
+ - How do you know how many events happened in your region?
+ 
+After reviewing the responses from this survey, I spoke with each program manager individually for a 1-hour conversation about how we could create more efficient processes to handle event management. I took thorough notes from these conversations and wrote reports on my findings after each step of the process and shared these notes with the global management team. After reviewing all of the responses to the phone conversations it was clear that the current event creation technology tool we proposed the developer circle leads use, was very hard to use, and the developer circle leads needed training on how to use the tools. It was also very clear that because the current program managers were not technical they were struggling with finding content for the offline events. The developer circle leads were in charge of creating content for these events, but frequently they had no idea where to start in creating material for the events. The developers were looking for training to help them get better jobs or their first development jobs and they needed reference material for the tutorial they wished to present on.
+
+- Who did I work with? 
+
+As the analyst for the entire program, I produced reports for LATAM, EMEA, APAC, and North America so I worked with the program managers from these regions. 
+
+- What assumption did I make coming in? 
+
+This was my first experience working with social media data and I didn’t really understand what data was being collected. I figured I would be analyzing profiles and understanding who was friends with whom, but I didn’t realize how important social connection among online groups was and is now and how to measure engagement in online groups. 
+
+- What technology or tools did I use? 
+
+ - SQL 
+ - HIVE 
+ - Internal tools from Facebook to schedule data engineering jobs 
+
+ - What hurdles did this team face? 
+
+The program managers were non-technical but their managers were asking for reports which would measure the health of the online community. As a technical person who was scrubbing and cleaning the data I needed to explain to the program managers what was going on in their online groups. I needed to do it in a way that made sense, so I would have to communicate with non-technical program managers and explain technical concepts. 
+
+ - What was the outcome of the project? 
+
+I produced bi-weekly reports for each of the programs (regions) which included a written explanation about what the data in the visualization meant. 
+
+- What external courses or educational resources did I use to skill up? 
+
+Datacamp (internal training course) 
 
 
 #### Winter Design Fellow | IDEO 		|	San Francisco, CA 	|	2016
