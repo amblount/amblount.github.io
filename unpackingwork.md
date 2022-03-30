@@ -25,7 +25,7 @@ is useful for others who are interested in understanding what I have done and ho
 - Dev Bootcamp Software Engineering 		Certificate of Completion   	(2017)
  
 ### WORK EXPERIENCE
-- Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021
+#### Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021
 
   - What team or product did I work on?
 
@@ -129,7 +129,7 @@ We were introduced to many execs at Abbey Road, they really enjoyed watching our
 
 In this case I didn't use any but in the future I would encourage anyone else interested in this type of work to read the [Abbey Road Round-Up](https://www.abbeyroad.com/news/abbey-road-reds-monthly-round-up-march-2022-edition-3125), it's a monthly newsletter containing information about the state of music technology.
 
-- Robotics Fellow | Circuit Launch 	|	Oakland, CA 	|		2020
+#### Robotics Fellow | Circuit Launch 	|	Oakland, CA 	|		2020
 
 
   - What team or product did I work on?
@@ -172,7 +172,7 @@ We built Reachy the robot arm that could pick up a marker and write on the board
 
 There are courses on Coursera that teach introduction to robotics, those are in depth courses because they require you ro read through University two-term text books which describe complex topics in robotics.
 
-- Director of Innovation | Bloc | 		Brooklyn, NY 	|		
+#### Director of Innovation | Bloc | 		Brooklyn, NY 	|		
 
   - What team or product did I work on?
 
@@ -218,7 +218,7 @@ We did not receive this grant but we were awarded two other grants.
 
 Grant writing is a trial and error sort of deal. I think that taking a course on scientific writing could be useful in understanding grant writing. You need to focus on writing for non-technical readers and that can be challenging.
 
-- Product Engineer | Bloc |			Brooklyn, NY 	|		2019
+#### Product Engineer | Bloc |			Brooklyn, NY 	|		2019
 
 
   - What team or product did I work on?
@@ -258,7 +258,7 @@ I moved into a director role.
 Exploring what stakeholders are and why they are important was a huge takeaway from this team.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyJ1dG3_pnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Product Manager | Executive Virtual Assistant (E.V.A.) 	|		Berkeley, CA 	|		2019
+#### Product Manager | Executive Virtual Assistant (E.V.A.) 	|		Berkeley, CA 	|		2019
 
   - What team or product did I work on?
 
@@ -344,7 +344,7 @@ Exploring program management is important. It's very specific to the program tha
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MRIXunZdW5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- Artificial Intelligence (A.I.) Fellow | Insight Data Science 	|	San Francisco, CA 	|	2018
+#### Artificial Intelligence (A.I.) Fellow | Insight Data Science 	|	San Francisco, CA 	|	2018
 
   - What team or product did I work on?
 
@@ -358,7 +358,7 @@ This was my first attempt at a deep learning project and my first intorudction t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_sK_n_OHgHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Automating Scheduling for ED residents at UCSF
+##### Automating Scheduling for ED residents at UCSF
 
 Data Journalism: I have been interested in [big data](https://www.youtube.com/watch?v=gx9IGKLi2e4) for a while now because I am fascinated by telling stories with data. I spent this past summer at the New York Times understanding data journalism by listening to writers explain their writing process and the investigative journalism that goes into it. Data journalism goes beyond re-telling facts and seeks to explore the utility behind the information. Once you aggregate your data and understand the metadata affiliated with your data set, you can decide what sort of statistical analysis to run on the data. Artificial intelligence mixes up this process a bit and lets the neural network gain an understanding of your data and imply how probable an outcome is. The foundation here is still statistics and probability without some of the manual work.
 
@@ -406,7 +406,7 @@ With a list of residents, how can we think about modeling the entire system?
 
 ![schedule](/images/er-sched-erd.png)
 
-#### Designing the entire database
+##### Designing the entire database
 
 What are the variables?
 ![schedule](/images/er-sched-variables.png)
@@ -453,7 +453,7 @@ I read a bit more about reinforcement learning. Deep Mind has a nice course.
  - [Deep Mind: Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
  - [Reinforcement Learning - an Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) Richard Sutton - The Intro RL Book
 
-- Entrepreneur In Residence | Universal Music Group (UMG) |		Los Angeles, CA 	|	2018
+#### Entrepreneur In Residence | Universal Music Group (UMG) |		Los Angeles, CA 	|	2018
 
   - What team or product did I work on?
 
@@ -498,7 +498,7 @@ I didn't know anything about metadata in music or ownership.
     - Spinning Up Blog
     - ROVI (music) API 
 
-- Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
+#### Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
 
 
   - What team or product did I work on?
@@ -671,7 +671,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What external courses or educational resources did I use to skill up?
 
 
-- Program Manager | Facebook 	|		Menlo Park, CA |		2017
+#### Program Manager | Facebook 	|		Menlo Park, CA |		2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -683,7 +683,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What external courses or educational resources did I use to skill up?
 
 
-- Data Analyst | Facebook 	|		Menlo Park, CA |		2017
+#### Data Analyst | Facebook 	|		Menlo Park, CA |		2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -695,7 +695,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What external courses or educational resources did I use to skill up?
 
 
-- Winter Design Fellow | IDEO 		|	San Francisco, CA 	|	2016
+#### Winter Design Fellow | IDEO 		|	San Francisco, CA 	|	2016
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -707,7 +707,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What external courses or educational resources did I use to skill up?
 
 
-- Entrepreneur In Residence | Kapor Center |	Oakland, CA 	|		2017
+#### Entrepreneur In Residence | Kapor Center |	Oakland, CA 	|		2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -720,7 +720,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
 
 ### TECHNICAL INTERNSHIPS
 
-- Software Engineering Intern (Hardware Architecture Group) |       Intel | Hillsboro, OR | Spring 2017
+#### Software Engineering Intern (Hardware Architecture Group) |       Intel | Hillsboro, OR | Spring 2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -731,7 +731,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
 
-- Machine Learning Analytics Intern (Transaction Labeling Group) | Intuit | Mountain View, CA | Summer 2017
+#### Machine Learning Analytics Intern (Transaction Labeling Group) | Intuit | Mountain View, CA | Summer 2017
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -742,7 +742,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
 
-- Data Science Intern (Data Science Team)        |           Acorns | Irvine, CA | Fall 2017 
+#### Data Science Intern (Data Science Team)        |           Acorns | Irvine, CA | Fall 2017 
   - What team or product did I work on?
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
@@ -753,7 +753,7 @@ This project had a budget of $1.5 million dollars to serve a community of around
   - What was the outcome of the project?
   - What external courses or educational resources did I use to skill up?
 
-- Software Engineering Intern (Data Engineering Team)   |  New York Times | Manhattan, NY | Summer 2018
+#### Software Engineering Intern (Data Engineering Team)   |  New York Times | Manhattan, NY | Summer 2018
 
 At a high level, here is what I did.
 
