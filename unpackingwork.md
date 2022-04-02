@@ -9,12 +9,12 @@ is useful for others who are interested in understanding what I have done and ho
 
 ### Relevant (Current) Projects w/ Technology Used
 
-- Predicting Diamond Prices - imported a labeled dataset (csv) of diamond data into alteryx and analyzed features in the dataset to predict the price of a new dataset of diamonds using linear regression.
-- Predicting Catalog Demand - used a prompt from the manager to determine whether it would be profitable to send 200 catalogs to new customers based on prior sales data. Imported a dataset of customer data into alteryx and determined which features were significant based on the calculated p-value of each predictor. Created a scatterplot to view whether there was a linear correlation between the significant feature predictor variable. Created a multivariate linear regression equation using the features I determined to be significant and applied new feature data from the dataset in question to determine the predicted amount of profit for each customer. I then aggregated the profit from all the customers to determine whether or not it would be profitable to send out the catalogs to this customer dataset based on the prompt, which questioned whether the profit exceeded $10,000. 
-- Create An Analytical Dataset - Aggregated 6 datasets containing information about chains of a convenience store in Wyoming in alteryx. This data was used in creating a regression model.
-- Predicting Risk Default - Created a model to help a bank determine which customers were at risk of default using logistic regression in alteryx.
-- A/B Test - As an analyst for a coffee restaurant the executive team conducts a market test with a new menu and needs to figure whether the new menu can drive enough sales to offset the cost of marketing the new menu. In this project I analyzed the A/B test and recommended that the chain launch the new menu.
-- Forecast Video Game Sales - As a supply chain analyst that sells video games the manager has requested the analysts forecast monthly sales data in order to help plan out the supply with demand for the companies video games. Used time series forecasting and applied ETS and ARIMA models to the time-series to predict future months sales.
+- Predicting Diamond Prices
+- Predicting Catalog Demand
+- Create An Analytical Dataset
+- Predicting Risk Default
+- A/B Test
+- Forecast Video Game Sales
 
 ### CERTIFICATIONS
 - Predictive Analytics for Business (Udacity) 		Nanodegree   	(2021)
