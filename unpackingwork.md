@@ -7,6 +7,15 @@ from that experience.
 In this document I will attemmpt to explain all of my technical work experience and the interpersonal and technical skills I learned during each experience. I hope that this document
 is useful for others who are interested in understanding what I have done and how it plays into my larger skillset.
 
+I am working on explaning in the written form what I have done and how I have contributed to each team I have been a part of. I realize there are early career professionals who are looking at my page and would like to model their page after my own so I would also like to provide a few resources for you to explore. 
+
+#### Race and Technology a Research Series
+Microsoft reserach gathered together a group of academics who are already doing work in the fields that explore the way that racial classifications have negative impacts in the work experience of people of color. I have been keeping up with these talks and I realized something important lately. While most of the professionals presenting their work are social scientists and I am not, they have done a phenomenal job of using metrics and data to analyze trends and interpret the field in which they are working. The most critical part of their work is explaining their findinds to the rest of us, via books, papers, and talks. As I watched some of the talks I realized the presenters were also breaking down reserach methods and qualitative studies which were a required part of their job.
+
+If you are an up and coming data professional I would encourage you to watch one or two of these talks and take note of the way these presenters talk about the research processes that have lead up to thier findings and incorate that method of explaining into your own portfolio.
+
+[Microsoft Race Technologt Lecture Series](https://www.microsoft.com/en-us/research/event/race-technology-a-research-lecture-series/videos/)
+
 ### Relevant (Current) Projects w/ Technology Used
 
 - Predicting Diamond Prices
