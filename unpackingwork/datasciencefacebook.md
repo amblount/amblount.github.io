@@ -8,7 +8,7 @@ I worked with the Developer Relations Team which is housed inside a larger marke
     
 I helped redefine meaningful engagement in online groups by posting targeted content in one specific group and traveling to the physical location of the event and speaking with the developers in person. This in person project increased meaningful engagement in one online facebook group and writing about it helped the data science group improve the meaningful engagement model with targeted content.
 
-[Read About The Research Study Here](amblount.github.io/developercirclesfieldresearch)
+[Read About The Research Study Here](https://amblount.github.io/developercirclesfieldresearch)
 
   - What did I work on?
     
