@@ -1,8 +1,14 @@
-The Field Research Study
+# The Field Research Study
 
-One of the program managers in EMEA mentioned there was a great female lead in Tunis, Tunisia who lead a very engaged circle and that if we had the capacity we should support one of her events. I saw this as an opportunity to test my assumptions and created a plan on how I would do this. A few months earlier I attended the field study masterclass by Jan Chipchase and used his textbook the Field Study Handbook to conduct the study.
+One of the program managers in EMEA mentioned there was a great female lead in Tunis, Tunisia who lead a very engaged circle and that if we had the capacity we should support one of her events. I saw this as an opportunity to test my assumptions and created a plan. A few months earlier I attended the field study masterclass by Jan Chipchase and used his textbook the Field Study Handbook to conduct the study.
 
-Here is what I did:
+ <img src="/images/userresearchstudy.jpg" width="175" />
+ 
+ I learned a lot in that masterclass about traveling to the developing world and meeting people on the ground to show you around and help you navigate the culture and environment.
+ 
+ !!!! Come back and edit this text. Poorly written and taken from another page
+
+## Here is what I did:
 
 Made a warm introduction to the developer circle lead, mentioning that it would be awesome to support her upcoming event.
 Asked her what type of content would be presented during the event and how I could help support her.
@@ -19,16 +25,17 @@ I did not always have such an in depth research process and I think that it is i
 
 Back in 2016, I started my web development boot-camp experience. I didn't have much coding experience and so in a lot of the group projects I worked on initially, I was the front-end web designer. I spent a lot of time building front-end web apps using Google's Material design and a Firebase backend. The documentation for both of these frameworks is really easy to get started with so I got to know a lot about making a website look pretty. The more and more I built web applications the more I started to think about the amount of time that I was spending rebuilding for the user experience. At the time I was unfamiliar with what a user-experience designer actually was, but I did know that if I spent more time initially speaking with the end users of my product I would be able to build a better product. This sent me down an entire rabbit hole and caused me to change the way that I would build projects.
 
-Before integrating user experience design + research:
+## Before integrating user experience design + research:
 
-Building a product looked something like this:
+## Building a product looked something like this:
 
 Ideate with other software engineers about what it is we would like to build
 Search through documentation online to understand what data we have available which we could use for the project
 Create a few general wireframes, which would pictorially represent a login page, a sign-up page and one page which displayed the core functionality of the app
-After integrating user experience design + research:
 
-Building product looks more like this:
+## After integrating user experience design + research:
+
+## Building product looks more like this:
 
 Find a question out in the world which has yet to be answered in a way suitable for me or someone else
 Explore ways in which other people have tried to solve the problem before
