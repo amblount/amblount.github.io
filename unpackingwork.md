@@ -51,7 +51,7 @@ Read more about this experience [here](https://amblount.github.io/unpackingwork/
 
 #### Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
 
-Read more about this experience [here](https://amblount.github.io/unpackingwork/datasciencefacebook
+Read more about this experience [here](https://amblount.github.io/unpackingwork/datasciencefacebook)
 
 #### Program Manager | Facebook 	|		Menlo Park, CA |		2017
 
