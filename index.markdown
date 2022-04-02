@@ -24,13 +24,15 @@ I am most proud of the work I did with:
 ![Places I've worked](/images/AboutMe.jpg)
 
 ### Current Research Interests
-I am working towards admissions into a computer science PhD program. But I live independently from my family so I financially support myself and don't want to live under the poverty line. This is why the work experience section of my profile continue to grow.
+
 |Primary Interests                                                              | Secondary Interests|
 :-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:
 |- [Meta-reinforcement learning](https://www.youtube.com/watch?v=bc-6tzTyYcM&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=4) | - [Evolutionary Robotics](https://www.youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9) + [Advanced Robotics](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)|
 |- [Causal Inference](https://www.bradyneal.com/causal-inference-course) | - Bayesian Statistics|
 |- [Explainable AI](https://www.youtube.com/watch?v=B-c8tIgchu0) | - [Adversarial Curiosity](https://arxiv.org/abs/1906.04493v1)|
 |- [Openendedness](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/) |- [Artificial Intelligence Generating Algorithms](https://arxiv.org/abs/1905.10985)|
+
+I am working towards admissions into a computer science PhD program. But I live independently from my family so I financially support myself and don't want to live under the poverty line. This is why the work experience section of my profile continue to grow.
 
 ### How I got here...
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GI_GnOEDJ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
