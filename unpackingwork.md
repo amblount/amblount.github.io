@@ -14,7 +14,7 @@ Microsoft reserach gathered together a group of academics who are already doing 
 
 If you are an up and coming data professional I would encourage you to watch one or two of these talks and take note of the way these presenters talk about the research processes that have lead up to thier findings and incorate that method of explaining into your own portfolio.
 
-[Microsoft Race Technologt Lecture Series](https://www.microsoft.com/en-us/research/event/race-technology-a-research-lecture-series/videos/)
+[Microsoft Race Technology Lecture Series](https://www.microsoft.com/en-us/research/event/race-technology-a-research-lecture-series/videos/)
 
 ### Relevant (Current) Projects w/ Technology Used
 
@@ -34,69 +34,69 @@ If you are an up and coming data professional I would encourage you to watch one
 - Dev Bootcamp Software Engineering 		Certificate of Completion   	(2017)
  
 ### WORK EXPERIENCE
-#### Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021
+- #### Engineering Fellow | Blue Ridge Labs (Robhinhood Foundation) |	Brooklyn, NY 	|		2021
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/engineeringfellow)
 
-#### Robotics Fellow | Circuit Launch 	|	Oakland, CA 	|		2020
+- #### Robotics Fellow | Circuit Launch 	|	Oakland, CA 	|		2020
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/roboticsfellow)
 
-#### Director of Innovation | Bloc | 		Brooklyn, NY 	|		2019
+- #### Director of Innovation | Bloc | 		Brooklyn, NY 	|		2019
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/directorofinnovation)
 
-#### Product Manager | Executive Virtual Assistant (E.V.A.) 	|		Berkeley, CA 	|		2019
+- #### Product Manager | Executive Virtual Assistant (E.V.A.) 	|		Berkeley, CA 	|		2019
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/evapm)
  
-#### Program Manager (Commercial Sales and Marketing Group) CSEO | Microsoft 	|		Redmond, WA 	|		2019
+- #### Program Manager (Commercial Sales and Marketing Group) CSEO | Microsoft 	|		Redmond, WA 	|		2019
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/microsoftprogrammanager)
 
-#### Artificial Intelligence (A.I.) Fellow | Insight Data Science 	|	San Francisco, CA 	|	2018
+- #### Artificial Intelligence (A.I.) Fellow | Insight Data Science 	|	San Francisco, CA 	|	2018
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/insightaifellow)
 
-#### Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
+- #### Data Scientist | Facebook 	|		Menlo Park, CA		|	2017
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/datasciencefacebook)
 
-#### Program Manager | Facebook 	|		Menlo Park, CA |		2017
+- #### Program Manager | Facebook 	|		Menlo Park, CA |		2017
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/facebookprogrammanager)
 
-#### Data Analyst | Facebook 	|		Menlo Park, CA |		2017
+- #### Data Analyst | Facebook 	|		Menlo Park, CA |		2017
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/facebookdataanalyst)
 
-#### Winter Design Fellow | IDEO 		|	San Francisco, CA 	|	2016
+- #### Winter Design Fellow | IDEO 		|	San Francisco, CA 	|	2016
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/winterdesignfellowIDEO)
 
-#### Entrepreneur In Residence | Kapor Center |	Oakland, CA 	|		2017
+- #### Entrepreneur In Residence | Kapor Center |	Oakland, CA 	|		2017
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/eirkapor) 
 
 ### TECHNICAL INTERNSHIPS
 
-#### Software Engineering Intern (Hardware Architecture Group) |       Intel | Hillsboro, OR | Spring 2017
+- #### Software Engineering Intern (Hardware Architecture Group) |       Intel | Hillsboro, OR | Spring 2017
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/softwareinternshipintel) 
 
-#### Machine Learning Analytics Intern (Transaction Labeling Group) | Intuit | Mountain View, CA | Summer 2017
+- #### Machine Learning Analytics Intern (Transaction Labeling Group) | Intuit | Mountain View, CA | Summer 2017
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/intuitanalyticsintern) 
 
-#### Data Science Intern (Data Science Team)        |           Acorns | Irvine, CA | Fall 2017 
+- #### Data Science Intern (Data Science Team)        |           Acorns | Irvine, CA | Fall 2017 
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/datascienceinternacorns) 
 
-#### Software Engineering Intern (Data Engineering Team)   |  New York Times | Manhattan, NY | Summer 2018
+- #### Software Engineering Intern (Data Engineering Team)   |  New York Times | Manhattan, NY | Summer 2018
 
 Read more about this experience [here](https://amblount.github.io/unpackingwork/nytdataengineeringintern) 
 
-#### Data Blogs and newsletters I subscribed to
+- #### Data Blogs and newsletters I subscribed to
     
 - Data Aiku
 - Data Census.Goc
