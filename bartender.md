@@ -1,6 +1,6 @@
-# Alivia Blount
+# Bartender, Alivia Blount
 
-## WORK EXPERIENCE
+#### WORK EXPERIENCE
 
 Position | Business | Location | Year
 |--------|-----------------------|-----------------------|--------|
@@ -18,7 +18,7 @@ Hostess | Rivoli Restaurant 		|	Berkeley, CA 		|	2021
 Hostess | Lake Chalet Seafood Bar & Grill		|	Oakland, CA 		|	2021
 
 
-## EDUCATION
+#### EDUCATION
 
 Degree | Subject | School | Location |  
 |--------|-----------------------|-----------|----|
@@ -26,7 +26,7 @@ BSc | Computer Science (INC) | University of California, Davis | Davis, CA
 Associates Degree | Allied Health | Berkeley City College | Berkeley CA
 High School Diploma | General Studies | Berkeley High School | Berkeley CA
 
-## CERTIFICATIONS
+#### CERTIFICATIONS
 
 What is it? | Liscensng Organization | Certification | Year Earned 
 |--------|-----------------------|-----------|----------|
@@ -37,16 +37,22 @@ Agile Project Management SCRUM course | Collabnet 			|		Scrum Master Certificati
 Web Development Bootcamp | General Assembly  |	Certificate of Completion  | 	2018
 Software Engineering Bootcamp | Dev Bootcamp |	Certificate of Completion   |	2017
 
-## Wine Club Memberships
-+ Champagne Bubble Bar (Sacramento)
-+ Naked Wines
-+ North Berkeley Imports (Berkeley)
+#### Wine Club Memberships
 
-## Contact Me
-+ Cell: 415-517-2897
-+ Email: aliviablount@gmail.com 
-+ Blog: amblount.github.io
-+ Current City: Berkeley, CA
+Name | Alcohol Specialty | City | Other Notes
+|--------|-------------|------|-------|
+Champagne Bubble Bar | Wine, Champage | Private Events + Wine Tours | Sacramento
+Naked Wines | Wine | Online | Subscription based wine delivery direct from vineyards
+North Berkeley Imports | Northern Italian Wines | Berkeley | bi-weekly newsletter
+
+#### Contact Me
+
+Contact Methos | Info
+|------|------|
+Cell:  | 415-517-2897
+Email: | aliviablount@gmail.com 
+Blog: |  amblount.github.io
+Current City: |  Berkeley, CA
 
 
 
