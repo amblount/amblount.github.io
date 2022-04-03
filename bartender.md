@@ -37,6 +37,10 @@ Agile Project Management SCRUM course | Collabnet 			|		Scrum Master Certificati
 Web Development Bootcamp | General Assembly  |	Certificate of Completion  | 	2018
 Software Engineering Bootcamp | Dev Bootcamp |	Certificate of Completion   |	2017
 
+## Memberships
++ Champagne Bubble Bar, Sacramento
++ Naked Wine
++ North Berkeley Imports (Wine Shop)
 
 ## Contact Me
 + Cell: 415-517-2897
