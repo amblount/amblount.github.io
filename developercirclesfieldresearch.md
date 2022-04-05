@@ -115,15 +115,34 @@ I detailes my journey into data science and Facebook which some people were insp
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gUj00hAelR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Survey
-Created a survey for the selected developers to describe their interest in the developer circle community and specifically what the community could use to become a more active and engaged community.
+
+I decided I would this group as my target for understanding engagement and trying to determine whether I could increase engagement by providing meaningful contet targeted to this specific group. I created a survey using a google form which I placed in the group to get feedback from these developers which would let us know how exactly we could help them and what specific resources they were looking for.
+
+After reviewing the responses from this group most of the members in the group were interested in deep learning and reinforcement learning and wanted more reources from the Facebook reserach group. I sent messages to Yann LeCunn, who is the AI (artificial intelligence) research lead at Facebook (Meta) and he shared some blog posts and other online resources that I could share. 
+
+The marketing team lead realized a few months before I joined the team the need for more resources for developers who are interested in research careers and understanding how large organizations were using and applying their research. Currently in 2022, there is somuch documentation that people can use to understand what is going on with Meta Research, there is an open blog and lots of technical talks. At this point in time in 2018 the research group created  6 lightning talks to the Dev-c community breaking down the high level concepts in deep learning and was trying to figure out more ways to distribute this information to more people in a way that was appropriate for early career reserachers. 
+
+Understanding how important content was for this community did shape the product that came out of this research, the content management system, which is written about in [another post](https://amblount.github.io/unpackingwork/contentmanagementsystemfb)
 
 #### The pre-event Guide (CMS)
 
+As a team, developer relations, we realized that providing content to the Dev-C leads was very important for them to have successul in person events because these developers were not experts with any of the APIS's they were consuming or interested in using. 
+
+<img src="/images/facebookwireframes/toolsAPISdevsUse.jpg" width="175" />
+
+Our team was full of program managers and marketing specialists so we did not have the technical domain expertise we would need to supply appropriate content or documentation to the developers. The market has changed a lot over time and more technical companies are hiring technical writers who are creating incredible documentation so that it's much easier for developers to get started. 
+
+Why is this a problem that a sharing platform could not solve?
+
+> the way that search is set up in groups...
+
+Lets say that a developer in your region in your city posts content about meta-learning in your group on January 3, 2019. Today is April 4, 2022 and in your group there have been so many new posst probably on the same topic so how would you track down that specific post? If you took the time to parse through text search and all of the results that display when you type meta=learning you would still have to go back 3 years to find that data and thats a lot. You would have to read through every post and validate whether the content posted is from a credible source and actually solves the problem you are having. Many people write things on the internet that are not true and are not useful. 
+
+This is the problem I tried to solve for this small group by creating a document, a google document, which included links from credible soures in articial intelligence research and I tried to label the documents by topic area so that it was clear what the document was useful for.
+
 #### The project plan
-As you create a project roadmap, you understand in the amount of time you have dedicated to a particular project how much can you reasonably get done
-Figure out what are the most important features to implement right away to get a minimum viable product
-Figure out how to place additional features into production accordingly in sprints
-Match the resources to a budget, if you have a roadmap with 12 months of development work required but only enough money for 3 months of development time, you need to explore which features from the development roadmap are the most important and place all of them in the first sprint and make sure that the developers are only working on building those particular features, nothing more and definitely nothing less
+
+
 
 #### On the ground interviews
 
