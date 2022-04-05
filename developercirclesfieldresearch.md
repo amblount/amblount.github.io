@@ -6,6 +6,8 @@ There were 119 developer circle groups from all over the world who held in perso
 
 I started to pay close attention to the online group in Tunis, Tunisa (North Africa) that the program manager mentioned and got to know the Dev-C lead over messenger chat. She informed me that they were having a deep learning hackathon and asked if I could support. I was so excited by the offer and I immediately spoke to my manager about it. My manager said that if I created a project plan and demonstrated in the plan how I could use the trip to improve the meaningful engagement model, that I could go. 
 
+ <img src="/images/tunisiadevcgroupphoto.JPG" width="175" />
+
 This is the story of how I created the project plan, the tools I used to create one and how I improved meaningful engagement in one online group.
 
 #### Jan Chipchase and The Field Study Masterclass
@@ -25,6 +27,39 @@ Initialy I used the Dev-C lead as my guide and I was able to get a lot of resour
  
 
 #### Cultural Context and Finding a Guide
+
+I used the online group to connect with the Dev-C lead who lived and worked as a software engineer in Tunis, Tunisia. Once I made a decision to actually travel to Tunisa, there were so many parts of the trip that I needed to plan. I needed to:
+
+- book a flight to Africa
+- get a new passport
+- book a hotel in Tunis, near the site of the event
+- book a car to and from the hotel
+- figure out how to manaeuver customs and global entry
+- approve the trip using the internal management software (concur, internal business travel tool)
+- plan for my data science talk
+- gather the prizes for the hackathon (2 oculus rifts)
+
+I can write a bit more about the international travel and all of the internal project planning that went into making this happen but the most important bit of information here concerns the hotel, which was recommended by the Dev-C lead. 
+
+I would also like to make a note here around electricity, baggage and customs.
+
+> International adapters are needed to plug in products made for and in America. The wall outlets in other countries are different and you may blow a fuse if you try to just plug in your product or device into the wall. I would suggest going to Best Buy or ordering an international wall outlet online. Here is an image of the outlet that I used. 
+
+ <img src="/images/facebookwireframes/internationalcharger.JPG" width="175" />
+
+> Packing for an international business trip can be overwhelming the first time, but pro-tip, just pack one bag and ensure that you have maybe two main outfits and undergarmets. Maybe one dress. Wear something comfortable to and from the airport and shoes that are going to work for the weather where you are traveling.
+
+> Your things might get lost if you check your bag but if you need technology like a computer or something else ensure you get it in the USA or UK because it WILL NOT be available once you land in the developing world.
+
+<p float="left">
+   <img src="/images/facebookwireframes/boardingpasses.JPG" width="175" />
+  <img src="/images/facebookwireframes/businessclass.jpg" width="200" height="230" /> 
+  <img src="/images/facebookwireframes/currency.JPG" width="200" height="230" />
+  <img src="/images/facebookwireframes/globalentry.jpg" width="175" /> 
+  <img src="/images/facebookwireframes/paris.JPG" width="200" height="230" />
+</p>
+
+> Before you leave the airport where you land use the ATM to pull out cash, you don't know where you are goint to come across another ATM and it could be dangerous to pull out cash on the street. Finding a bank isn't the easiest task and if you don't have your SIM card situation figured out with cellular service, this could be a problem. Having cash in the local currency allows you to call a cab and give them the name of the airport or just grab food if need be.
 
 #### The Deep Learning Hackathon
 
