@@ -52,7 +52,7 @@ I would also like to make a note here around electricity, baggage and customs.
 > Your things might get lost if you check your bag but if you need technology like a computer or something else ensure you get it in the USA or UK because it WILL NOT be available once you land in the developing world.
 
 <p float="left">
-   <img src="/images/facebookwireframes/boardingpasses.JPG" width="175" />
+  <img src="/images/facebookwireframes/boardingpasses.JPG" width="175" />
   <img src="/images/facebookwireframes/businessclass.jpg" width="200" height="230" /> 
   <img src="/images/facebookwireframes/currency.JPG" width="200" height="230" />
   <img src="/images/facebookwireframes/globalentry.jpg" width="175" /> 
@@ -72,12 +72,46 @@ Once I landed in North Africa, Tunis, and checked into my hotel I tok a stroll a
 #### The Deep Learning Hackathon
 
 What was it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zc3RNH6PACU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Where was it?
+
+Cogite office space, a co-working space in Tunis, Tunisia.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qejtMn25AGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Introducing reinforcement learning
+
+Pieter Abbeel is a robotics instructor at UC Berkeley and I live and study in Berkeley so I am familiar with his work. The computer science research community is very small and most of the reserachers aggregate to particular institutions and not very many of these reserachers are in EMEA of North Africa. I wanted to ensure the students had access to the highest quality up to date information so I reached out to Pieter and grabbed online material which I could share. 
+
+<img src="/images/facebookwireframes/pieterabbeel.JPG" width="175" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8aNoCzlV6_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8nMnSr4CDVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e8LNmZ7GSG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 What did I learn about the developer ecosystem that I did not know before?
+
+I learned that developers in emerging countries would like to be up to date on current trends and build things for America. This is very strane because there are so many opportunities for them to build things that would serve the population of people where they live. For instance I learned that in North Africa all of the higher education is free but the courses are not world class and the infrastructure for the records and information mangement systems is awful or null and void. I think there is a lot of privilege in terms of being a student in America.
+
+I also took away the fact that theory and application are two different things, so it's easy to work through a course online and work throught hte projects but in the real world and in the working world you need to understand business priorities and why the business is making certain decisions or not and where your job plays into that. I think that more students from the developing world should take google certification courses and use those skills to enter jobs in technology. Work is turning remote and many of the people who would like to traditionally go to college only need to work through one certification and understand the what and why to be effective in a paid job.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uJb4_jdyO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 What did these developers take away from the hackathon?
 
+The hackathon provided AWS GPU credits so that the devleopers could run simulations. That was really cool and a few of them got tickets to come to the F8 developers conference. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kKenn723FjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The data science talk
+
+I detailes my journey into data science and Facebook which some people were inspired by. Learning skills online is really cool and useful.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gUj00hAelR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Survey
