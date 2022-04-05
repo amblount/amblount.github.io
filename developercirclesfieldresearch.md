@@ -12,12 +12,17 @@ This is the story of how I created the project plan, the tools I used to create 
  <img src="/images/userresearchstudy.jpg" width="175" />
  
 What was the class?
+
+Jan Chipchase is an international user experience researcher who is well-known for going into the developing world and helping large organizations establis a presence there by understanding the local customs and traditional norms and explaining that to the development team of the large company. A great example of this is McDonalds building it's first location in India. There are certain parts of India where it is disrespectful to eat meat and so McDonalds had to think about how to change the menu to fit the new customer segment. 
+
 What did I learn?
+
+I learned how to listen and build trust with people living in the developing world given the high potential for fraud. Online spaces have made it a bit easier to understand what is going on and where and more news segments like Vice, and Vox are covering the political happenings in parts of the developing world, but if you are planning a trip you need to make sure that you are safe. I learned how to use the internet to find a credible palce, this could be a hotel and ask the hotel management for help finding a guide. A guide is a local in that community who lives there and speaks your language. This guide needs to understand your goals and what it is you would like to see so they can plan accordingly and understand what to show you. It is important for you to pay this guide, obviously, but it might even make some sense to pay using a task management system, so you can say once you coplete this tak I will give you this much money and then continue to follow through.
+
 How did I apply what I learned in my project plan?
+
+Initialy I used the Dev-C lead as my guide and I was able to get a lot of resources from her, this is until I found a better guide. I found Yahya, and learned all about the developer ecosystem from him. I even interviewed him and was able to travel to some remote places that I would not have been able to otherwise. 
  
- I learned a lot in that masterclass about traveling to the developing world and meeting people on the ground to show you around and help you navigate the culture and environment.
- 
- !!!! Come back and edit this text. Poorly written and taken from another page
 
 #### Cultural Context and Finding a Guide
 
