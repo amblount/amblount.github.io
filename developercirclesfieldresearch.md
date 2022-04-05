@@ -61,6 +61,14 @@ I would also like to make a note here around electricity, baggage and customs.
 
 > Before you leave the airport where you land use the ATM to pull out cash, you don't know where you are goint to come across another ATM and it could be dangerous to pull out cash on the street. Finding a bank isn't the easiest task and if you don't have your SIM card situation figured out with cellular service, this could be a problem. Having cash in the local currency allows you to call a cab and give them the name of the airport or just grab food if need be.
 
+Once I landed in North Africa, Tunis, and checked into my hotel I tok a stroll around the neighborhood. Because my orginal guide seleced the hotel and it was 5 stars I knew it was an okay neighborhood. Walking around I found signs for a developer community and I walked in, this is where I found another guide and he took [me all around Tunisia](https://youtube.com/shorts/Sc_IZuEK9rk?feature=share).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OollKEiazZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJVzPcYcy9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3N---Q2Syf7twwmPmWbZ7gBsybAFi_UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### The Deep Learning Hackathon
 
 What was it?
@@ -68,6 +76,9 @@ Where was it?
 Introducing reinforcement learning
 What did I learn about the developer ecosystem that I did not know before?
 What did these developers take away from the hackathon?
+
+The data science talk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gUj00hAelR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Survey
 Created a survey for the selected developers to describe their interest in the developer circle community and specifically what the community could use to become a more active and engaged community.
