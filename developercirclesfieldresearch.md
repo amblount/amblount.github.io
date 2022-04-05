@@ -67,7 +67,6 @@ Once I landed in North Africa, Tunis, and checked into my hotel I tok a stroll a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vJVzPcYcy9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3N---Q2Syf7twwmPmWbZ7gBsybAFi_UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### The Deep Learning Hackathon
 
@@ -142,11 +141,22 @@ This is the problem I tried to solve for this small group by creating a document
 
 #### The project plan
 
+The purpose of the trip was to collect information about the developers in this region and understand how we as a program could support these developers more effetively. All of the other program managers and team members had many opportunities to travel abroad and understood what it was like to live in the developing world. I lacked all of that context having grown up in a major city in America my entire life. I needed to prove to my team that I was capable of using the information I would gather from the trip to improve online engagement in the group.
 
+All of the other parts of this write-up were section in the project plan including:
+
+- a detailed budget a spending plan
+- trip dates for flights
+- itenerary for the date of event, and pre-event (talks)
+- content document with links to technical resources
+
+After the event I updated my monthly analytic engagement report which sumarized the online engagement in the group and I found that one week after the trip engagement increased 400% online. The engagement was meaningful and most of if was relatd to deep learning content. I presented my findings to senior leadership and the content management system project which was on hold was approved for immediate release and the product was announced at F8 two months later.
 
 #### On the ground interviews
 
+I recorded many talks with developers which you are free to watch and learned a ton from their personal experiences. When I think about the way that I look at the working world post-COVID-19 and this project, I am reminded of how far technology can take you and how if you create a digital resource, it could potentially help someone else in the future with less access than you.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3N---Q2Syf7twwmPmWbZ7gBsybAFi_UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 5 Steps to deigning your own user research study
 
