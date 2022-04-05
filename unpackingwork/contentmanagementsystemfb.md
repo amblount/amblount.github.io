@@ -4,6 +4,8 @@
 
 ## Reach: 150,000 developers
 
+<img src="/images/facebookwireframes/developercircles.jpg" width="300" />
+
 If you are a member of the developer circles group and you were in attendance when this product was in beta and I presented it live to you, thank you for your support of all of my work. -^_^-
 
 #### An image of the group of developers who came to Mountain View, CA (MTV) from all over the world to learn about the CMS
@@ -52,6 +54,15 @@ The team:
 - 5 engineers 
 - 1 user experience designer
 - 1 database administrator
+
+##### The design process
+
+<p float="left">
+  <img src="/images/facebookwireframes/code-academy-product.jpg" width="250" />
+  <img src="/images/facebookwireframes/datasciencenotes.jpg" width="175" /> 
+  <img src="/images/facebookwireframes/dev-c-program-obj.jpg" width="175" />
+  <img src="/images/facebookwireframes/meaningful-engagement.jpg" width="250" /> 
+</p>
 
 SCRUM | Project Management, how it looked...
 
