@@ -32,6 +32,9 @@ google_ad_client: ca-pub-3175504123970367
 theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
+  
+# Include posts
+include: _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
