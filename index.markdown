@@ -23,10 +23,16 @@ Black and Latino and now Arab communties are clustered into low income housing p
 
 People you should listen to if you care about poverty:
 
-1. Idaline Bobe
+- Idaline Bobe
+
+Idalin grew up poor in Philly and she had just an aweful public school educational experience. It was just really bad. Watch the video for yourself to hear about it. I think so many people in communities of color have had awful experiences with institutions and so there is this belief that its supposed to be this way. The country has to make a conscious decision to educate the poor or it will lose big time because CHINA. I'm not very invested in the future of America so I don't really care, but as a person who is very familiar with Kumon and the Chinese work ethic, America better watch out because the mediocre dream is about to collapse.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gy82S8tjJX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Jeff Duncan
+- Jeff Duncan
+
+He started a school in Oakland that he named after a Tupac song, "Roses in The Concrete" this is becuase he noticed all of the youth in Oakland were trauma informed and struggling so he wanted to change that. He created a charter school, but there are a ton of charter schools in Oakland that are taking resources away from Public School so that is a thing.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okBjLsFd58M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Films I would highly recommend you watch:
