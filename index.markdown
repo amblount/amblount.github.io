@@ -10,6 +10,35 @@
 ### My name is ALIVIA BLOUNT
 I am not sure how you found this space but I am happy you are here. I decided to create a table of common links, so it's a bit simpler to find stuff here.
 
+#### Lets clarify some stuff
+I am not pro or anti anyone but myself, as in I am PRO-Alivia, and I don't really have much of an interest in anyone else because I'm great and thats it. Also on most political issues I am moderate as so I am not super-liberal and not super-conservative I think both sides are bugging and are out of touch with society. I do have strong feelings about immigration because of cross-cultural communication and the way some (most) groups are unwilling to learn and integrate into mainstream society, this is why and how counter-culture has become mainstream - enter Cardi B. It's important to think about womens issues and women's issues globally. Women of color globally are in a difficult space and Black women in particular have it so rough, I am extra-empathetic to this group.
+
+#### Poverty...
+
+- literacy
+- food access
+- lack of affordable housing
+
+Black and Latino and now Arab communties are clustered into low income housing projects and they don't have access to anyone from the middle class or the upper middle class and there is a real culture and race gap. If you don't live in it or work near it, you don't see it. I learned about it first hand from my year as an Americorp Volunteer.
+
+People you should listen to if you care about poverty:
+
+1. Idaline Bobe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gy82S8tjJX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2. Jeff Duncan
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okBjLsFd58M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Films I would highly recommend you watch:
+- Dessert Flower
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rnMwlcAyATc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJES6Usn8eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Master
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gShIU_i7O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 | About Me | Music | Mental Health | Other |
 :----:|:---:|:-----:|:----:|
 | [My Journey Into Software Entineering](https://amblount.github.io/AddaTwist) | [Independent Music Artist](https://amblount.github.io/IMA) | [Master: A Resource List For Black Women in Academia](https://amblount.github.io/master) | [CV](https://amblount.github.io/about) |
