@@ -13,6 +13,12 @@ I am not sure how you found this space but I am happy you are here. I decided to
 #### Lets clarify some stuff
 I am not pro or anti anyone but myself, as in I am PRO-Alivia, and I don't really have much of an interest in anyone else because I'm great and thats it. Also on most political issues I am moderate as so I am not super-liberal and not super-conservative I think both sides are bugging and are out of touch with society. I do have strong feelings about immigration because of cross-cultural communication and the way some (most) groups are unwilling to learn and integrate into mainstream society, this is why and how counter-culture has become mainstream - enter Cardi B. It's important to think about womens issues and women's issues globally. Women of color globally are in a difficult space and Black women in particular have it so rough, I am extra-empathetic to this group.
 
+#### Social Issues
+
+The black community struggles with homosexuality and rape culture its a thing and its real and people need to talk about it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0CoQRljciJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### My Current Project
 I have decided to create a film. I have a camera and I guess I have to be the representation that I seek in the world like always so, FUCK! Anyway, I am turning a Thandie Newton Interview into a film. I have acted out the scenes in this film. You should totally watch along. Its been a blast making this art. I want to take you guys inside the actors studio because I am just that artistic bitch.
 
