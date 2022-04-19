@@ -13,6 +13,52 @@ I am not sure how you found this space but I am happy you are here. I decided to
 #### Lets clarify some stuff
 I am not pro or anti anyone but myself, as in I am PRO-Alivia, and I don't really have much of an interest in anyone else because I'm great and thats it. Also on most political issues I am moderate as so I am not super-liberal and not super-conservative I think both sides are bugging and are out of touch with society. I do have strong feelings about immigration because of cross-cultural communication and the way some (most) groups are unwilling to learn and integrate into mainstream society, this is why and how counter-culture has become mainstream - enter Cardi B. It's important to think about womens issues and women's issues globally. Women of color globally are in a difficult space and Black women in particular have it so rough, I am extra-empathetic to this group.
 
+#### My Current Project
+I have decided to create a film. I have a camera and I guess I have to be the representation that I seek in the world like always so, FUCK! Anyway, I am turning a Thandie Newton Interview into a film. I have acted out the scenes in this film. You should totally watch along. Its been a blast making this art. I want to take you guys inside the actors studio because I am just that artistic bitch.
+
+Page | Part | Theme | Link
+-----|------|-------|------|
+Page 1 | Part 1 | Introduction | [Intro](https://youtu.be/r6b03yk70UQ)
+Page 1 | Part 2 | Inside the bedroom | [Episode 1](https://youtu.be/kasQMNWgR8k)
+Page 1 | Part 3 | Westworld | [Episode 2](https://youtu.be/I66HVg_gOVk)
+Page 1 | Part 4 | Not a beautiful child | [Episode 3](https://youtu.be/ZDQLFaHPuJ0)
+Page 1 | Part 5 | Introduction | [Intro]()
+Page 1 | Part 6 | Sexual Predators | [Episode 6](https://youtu.be/puXpRlWqusc)
+Page 1 | Part 7 | Introduction | [Intro]()
+Page 1 | Part 8 | Introduction | [Intro]()
+Page 1 | Part 9 | Introduction | [Intro]()
+Page 1 | Part 10 | Introduction | [Intro]()
+Page 1 | Part 11 | Introduction | [Intro]()
+Page 1 | Part 12 | Introduction | [Intro]()
+Page 1 | Part 13 | Introduction | [Intro]()
+Page 1 | Part 14 | Introduction | [Intro]()
+Page 1 | Part 15 | Introduction | [Intro]()
+Page 1 | Part 16 | Introduction | [Intro]()
+Page 1 | Part 17 | Introduction | [Intro]()
+Page 1 | Part 18 | Introduction | [Intro]()
+Page 1 | Part 19 | Introduction | [Intro]()
+Page 1 | Part 20 | Introduction | [Intro]()
+Page 1 | Part 21 | Introduction | [Intro]()
+Page 1 | Part 22 | Introduction | [Intro]()
+Page 1 | Part 23 | Introduction | [Intro]()
+Page 1 | Part 24 | Introduction | [Intro]()
+Page 1 | Part 25 | Introduction | [Intro]()
+Page 1 | Part 26 | Introduction | [Intro]()
+Page 1 | Part 27 | Introduction | [Intro]()
+Page 1 | Part 28 | Introduction | [Intro]()
+Page 1 | Part 29 | Introduction | [Intro]()
+Page 1 | Part 30 | Introduction | [Intro]()
+Page 1 | Part 31 | Introduction | [Intro]()
+Page 1 | Part 32 | Introduction | [Intro]()
+Page 1 | Part 33 | Introduction | [Intro]()
+Page 1 | Part 34 | Introduction | [Intro]()
+Page 1 | Part 35 | Introduction | [Intro]()
+Page 1 | Part 36 | Introduction | [Intro]()
+Page 1 | Part 37 | Introduction | [Intro]()
+Page 1 | Part 38 | Introduction | [Intro]()
+Page 1 | Part 39 | Introduction | [Intro]()
+Page 1 | Part 40 | Introduction | [Intro]()
+
 #### Poverty...
 
 - literacy
