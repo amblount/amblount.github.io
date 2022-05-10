@@ -1,5 +1,5 @@
 # Alivia Music
-This is my EPK (Electronic Press Kit)
+This is my EPK (Electronic Press Kit) <3
 Please read about some of my other work in music [Independent Music Artist](https://amblount.github.io/IMA)
 
 ## Social Media
