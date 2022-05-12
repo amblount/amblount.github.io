@@ -38,6 +38,11 @@ April 8, 2022 | W - Hotel San Fransico, CA |
 - Art Attack: I taught a visual arts course during an Americorp experience where I was an after school instructor at Martin Luther King Elementary School in West Oakland
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONOVOz2rnyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+I found an olf youtube channel that I created where I did document a little bit of my teaching experience - [Livy 465](https://www.youtube.com/user/livy465)
+
+This is one my students talking about music appreciation:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCOnRF3SmMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - About the program
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/tNar8xlM_ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -52,7 +57,7 @@ April 8, 2022 | W - Hotel San Fransico, CA |
 - Hip-hop
 - Afrohatian
 
-### Professional Company Expereince
+### Professional Company Expereince (Dance)
 - Future Shock Oakland: Club One Fitness Center
 - Funk Beyond Control: Club One Fitness Center
 - UFO- Movement: Various Studios
