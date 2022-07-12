@@ -15,9 +15,39 @@ I am not pro or anti anyone but myself, as in I am PRO-Alivia, and I don't reall
 
 #### Social Issues
 
-The black community struggles with homosexuality and rape culture its a thing and its real and people need to talk about it.
+A mini blurb from July 12, 2022 [Update]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0CoQRljciJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### All the things
+
+I am not a trained journalist and I am in the beginning stages of finding my voice and my perspective and I am doing this in spite of a lot. I feel like I am just starting to realize how to use certain systems and what proper ‘citizenship’ is supposed to look like and it feels weird. It feels weird to honestly try to navigate society as an adult black person. 
+
+I am so glad that despite how controversial some of the things that I have said in the past are and how offensive they are, I had the confidence to say them. If I didn’t say those things and express those thoughts, YES, maybe some people wouldn’t have been offended and their hurt feelings could have been spared, but those thoughts and feelings were coming from a real place in my real life and I am not going to apologize for that. I think that if you find another persons thoughts and feelings offensive YOU should take the time to try and correct or inform that person if you would like them to understand but there is this weird space where people feel like they would convince and take control of other peoples thoughts and I am NOT for that. Free speech is important and you need to be able to express your honest opinions on topics of the day and it it perfectly normal to disagree with someone else.
+
+##### On Work
+It’s awful
+
+#On culture and society
+I feel like I have spoken about this a lot and it is something that continues to be important to and for me because I have come across so many different cultures and people in work and in society unfortunately for me many of those experiences have not been positive and I wish they had. I can’t ignore the many forms of bias and opportunity that I have been afforded but when I think about it, it hasn’t really led me to have this positive outlook on this society as a place in which I would want to live and that I why I am moving on.
+
+I feel like American culture is competitive at its core and that it not necessarily a bad thing, but I think that it has the ability to become toxic when opportunities are given to certain groups and taken from others which is the unfortunate reality. The biggest example that I can think of is middle class education and the ways that money can buy a positive personalized learning environment for some which continuing to be out of reach for a large majority of Americans. Education is the one system which could potentially equalize the life chances for many and enable all people despite their socio-economic upbringing to experience a life worth living. Adults have the ability to gain a skill and use that skill in the marketplace to support a family and pay for their cost of living. I can’t seem to rationalize why this sort of adult experience would or is out of reach for some people here just because they are black, when the black experience in this country has been so full of anguish and trauma. As a society wouldn’t we try an rectify some of those wrongs, but i feel like I am probably speaking to a wall and no one actually cares about that in reality its like a theoretical problem that most of American can think vaguely about without actually taking ANY action to solve this problem. Its weird.
+
+##### On America
+What if you are too exhausted to play the I am racialized card and try to advocate for yourself and humanize yourself and your real lived experience. What then? That doesn’t seem to fit in with what has been expected. Critical thinkers are not invited to the cookout tne BBQ or the event period. One thought that is out of the ordinary or is not understood by the masses and you are out, “WE” can not accept this form of intolerance and someone that is so different from what we are used to. This is my interpretation of the community and society which currently see and just don’t accept.
+
+##### On extreme wealth and a lack of equity -= America…
+To watch celebrities spend $300,000 on their girlfriends weekly allowance and other celebrities lose $21,000,000 gambling overnight is just ridiculous. It just hurtful and show such a lack of compassion for most people and their struggle to survive. I care about the issue but honestly I feel like I am the only one.
+
+##### Saying ALL the unpopular things
+Last year, I brought up some really controversial topics that sounded racist to some people and homophobic to others but they were real conversations that I was tired of having in private and I wanted to know the answers to. I am so happy to see many people actually talking about these topics openly and with respect for differing perspectives on platforms like Jubillee and youtube. I think that society will move forward as long as the conversations continue.
+
+I also had a lot of questions about relationships and black women in general particularly around fetishization. It felt like there were a very loud percentage of black men who were so free in their hate towards black women and it was strange. I tried to ask a few people about this last year but that conversation didn’t go very far. Yet, Iam still very happy that I tried because what is a question if left unanswered. This is yout life to live and I think that its up to you to get your questions about society answered. 
+
+##### Starting Over in Germany
+I think, I know I am ready for a change because I can take all that I have learned over the past few months and years and apply that information to my future and grow. I do truely believe in growth, even if you think that I lack the potential to grow, I di and you do as well.
+
+##### What I’ve learned from it all
+You can’t be afraid to ask a question and have a feeling about ANY topic. There might be something in your upbringing that made you feel a particular way and brought you some discomfort. A part of the human experience is getting to the root of why you feel that way and thinking through what you can do to change those feelings. Saying a word aloud and expressing your thoughts about something doesn’t make you a bad person, it actually makes you an honest person and you have the right to be honest and human. Take that seriously even if others won’t.
+
 
 #### My Current Project
 I have decided to create a film. I have a camera and I guess I have to be the representation that I seek in the world like always so, FUCK! Anyway, I am turning a Thandie Newton Interview into a film. I have acted out the scenes in this film. You should totally watch along. Its been a blast making this art. I want to take you guys inside the actors studio because I am just that artistic bitch.
