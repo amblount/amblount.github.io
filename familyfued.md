@@ -5,4 +5,5 @@
 
 #### I can only speak for me
 I am an arts school girl. Serisouly
+<img src="/images/berkeleyartsmagnet.PNG" width="175" />
 
