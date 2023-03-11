@@ -1,3 +1,8 @@
 #FAMILY FEUD
 
-So... WHat happanes when you are actually having a fmaily feud?
+### So... What happanes when you are actually having a family feud?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2kEKZ6jyQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### I can only speak for me
+I am an arts school girl. Serisouly
+
