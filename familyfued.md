@@ -9,7 +9,9 @@
  </div>
 
 
-#### TEST
+#### I have always known I wanted to be on stage
 I am an arts school girl. Serisouly
 <img src="/images/berkeleyartsmagnet.PNG" />
 
+#### Something changed with YouTube and content ownerzhip
+I left a performing arts high school with no video content and no portfolio. That is [INSANE]! Do you guys know how difficult it is to gain admission into a performing arts program? Like many people want a spot but not everyone gets IN! You have to be better than like everyone else. Seriously. People who purchase tickets to the shows come because there is talent on stage. The tickets are NOT free. The kids who gain admission into the programs have [SERIOUS]() talent. When I left Oakland School for the Arts I knew I didn't want to be a struggling artist, meaning I didn't want to be poor
