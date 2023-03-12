@@ -5,7 +5,6 @@
 
 #### I can only speak for me
 <img width=500 height=1000 style="float: right: " src="/images/firstpress.jpg"> 
-
 where does this land?
 
 #### TEST
