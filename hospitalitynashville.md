@@ -39,4 +39,6 @@ These are all chains and they hire for the morning server shift. You are going t
   - Add the start dates to your google calendar
   - ADD everything to your google calendar
 
+## What the HELL is a server assistant
+![](/images/serverassistant.jpg)
 
