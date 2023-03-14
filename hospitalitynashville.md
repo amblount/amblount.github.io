@@ -43,3 +43,12 @@ These are all chains and they hire for the morning server shift. You are going t
 A server assistant is the first person to greet the guest once they sit down at the table. The host is the person who seats the guest. The server assistant pours the water and brings over the breadsticks and other free stuff before the guest orders anything. They just smile at the guest. They can also be food runners who will bring food from the kitchen to the table but that requires you know the dishes on the menu and that takes a few weeks. If you are a new person you probably will only touch water. When the restaurant gets busy there are a lot of table who will need water at the same time and you will have to prioritize. When tables go from one course to another it is your responsibility to bring out new dishware and set the table. If there are 10 guests at the table you are responsible for setting that many places at the table and you can only hold so many plates in yu
 ![](/images/serverassistant.jpg)
 
+## [MASTER] server pro tips
+I worked with a really awesome server and asked him about what he would suggest for me to get better and he said this:
+
+1. Learn the menu by heart, every dish and every ingredient
+2. Take the [WSET Wine Spirit Education Trust Course](https://www.wsetglobal.com/)
+3. Take the courses with the [Court of Master Sommeliers](https://www.courtofmastersommeliers.org/)
+
+The Court of Master Sommeliers was established to encourage quality standards for beverage service in hotels and restaurants.
+
