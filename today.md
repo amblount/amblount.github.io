@@ -5,6 +5,11 @@ Also fucking McDonalds. I purchased a large sprite which caused me to freeze for
 
 ### Songs playing at the restaurant. These are SO old!
 
+#### Blueface - Holy Moly Doughnut Shop?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5TWDdOZPvM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Who knew that professor blueface likes doughnuts? Seems a bit risque at his doughtnu shop. I might opt for a cheerio, jesus. People are he is putting dicks in places that only God should see. Well it is clear that he uses his cahones like an adult.
+
 #### Goo Goo Dolls - Iris
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NdYWuo9OFAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
