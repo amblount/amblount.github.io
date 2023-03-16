@@ -10,6 +10,7 @@ By the time I make it back to the bathroom, the fat womans daughter beat me into
 #### Blueface - Holy Moly Doughnut Shop?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5TWDdOZPvM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+The theiving n!ggers at the doughnut shop stealing $5.00 [USD] repeatedly. The skit at the end is EVERYTHING LMAO!
 Who knew that professor blueface likes doughnuts? Seems a bit risque at his doughtnu shop. I might opt for a cheerio, jesus. People are he is putting dicks in places that only God should see. Well it is clear that he uses his cahones like an adult.
 
 #### Goo Goo Dolls - Iris
