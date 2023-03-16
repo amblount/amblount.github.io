@@ -47,6 +47,10 @@ How do I feel about this video?
 #### Women are not free
 I realize now that It cost money for women to live and that cost is about $100 a day for meals.
 
+Let's talk about discount Betty mothers for a moment. They always believe that products and services don't cost money even the bare minimum shit. It's pathetic. I am not asking for an expensive meal I am asking for McDondals and she won't even send me money for that. Like bro. $30 per meal is not a lot of money. She doesn't know how to budget anything at all and its insane. I think so many adult women should just get away from their families and have their own shit for so many reasons. Also the video from today where the man is making fun of women who have been dating broke men and the tears. I'm crying this is SO funny like serously.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXeZiRBtTAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## $30 for Breakfast
 
 - Egg, bacon, chive cream cheese bagel
