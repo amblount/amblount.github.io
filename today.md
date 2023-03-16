@@ -18,6 +18,16 @@ How do I feel about this video?
 
 How do I feel about this video?
 
+#### Taylor Swift - Look what you made me do
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3tmd-ClpJxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+How do I feel about this video?
+
+#### Sheryl Crow - The first cut is the deepest
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dK9eLe8EQps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+How do I feel about this video?
+
 #### Women are not free
 I realize now that It cost money for women to live and that cost is about $100 a day for meals.
 
