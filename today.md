@@ -3,6 +3,8 @@ At McDonald's - had some points on the app so I got a free meal. I bought cigare
 
 Also fucking McDonalds. I purchased a large sprite which caused me to freeze for real and I needed to pee. They put a code on the bathroom so you cant just walk in and there are two stalls. I get the mexican girl at the register to put in the code and I walk and and there is tissue all over the floor. There is a fat black mother who is also waiting for the bathroom and she jusy walks right in. I go back to the register and ask thm to pick up the tissue off of the floor. The mexican girl claims she is busy taking orders, is it the french fries I just ordered on the app? Whatever so another black woman who I meet l8r Tiffany goes in and picks up the tissue. I am having trouble holding my pee so I have a major attitude. I go back to my seat where I have out my laptop and text message my cousin Keisha to try and encourage her  her to send my mother a message so that she can send me dinner money, she doesn't even respond.
 
+By the time I make it back to the bathroom, the fat womans daughter beat me into the stall. I had to wait for her to come out and I am about to piss my pants. Of course I have to ask for the code again. Once I go in there is period blood on the seat. I have to walk back out and ask the male attendant to clean the stall and he looks at me cross-eyed asking why he would be able to clean the womans restroom, he is right but I’m not sitting on a seat with blood so I ask Tiffany to clean it. She walks over to the closet to get some sort of cleaning product and gloves cleans the seat and I am finally able to pee. THANK GOD.
+
 ### Songs playing at the restaurant. These are SO old!
 
 #### Blueface - Holy Moly Doughnut Shop?
