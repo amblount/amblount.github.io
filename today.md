@@ -38,6 +38,12 @@ How do I feel about this video?
 
 How do I feel about this video?
 
+#### If you're gone - Matchbox 20
+<iframe width="560" height="315" src="https://www.youtube.com/embed/clKAdQnwJ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Hold on forever - Rob Thomas
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCLN6JuXfpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### Women are not free
 I realize now that It cost money for women to live and that cost is about $100 a day for meals.
 
