@@ -1,14 +1,18 @@
 # March 15, 2023
 At McDonald's
 
-Songs playing at the restaurant. These are SO old!
+### Songs playing at the restaurant. These are SO old!
 
+#### 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NdYWuo9OFAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+
+####
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzCLLHscMOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+
+####
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UVNT4wvIGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+
+#### Women are not free
 I realize now that It cost money for women to live and that cost is about $100 a day for meals.
 
 ## $30 for Breakfast
