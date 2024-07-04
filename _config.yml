@@ -29,7 +29,7 @@ google_analytics:
 google_ad_client: ca-pub-3175504123970367
 
 # Build settings
-theme: pages-themes/leap-day@v0.2.0
+theme: pages-themes/minimal
 plugins:
   - jekyll-feed
   
