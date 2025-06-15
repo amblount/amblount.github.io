@@ -1,4 +1,5 @@
 What team or product did I work on? 
+  <img src="/images/developercircles.jpg" />
 
 Technically Developer Circles which was a part of the Strategic Partnerships Platform Team. The company META, or previously known as Facebook it is complicated to understand as a lay person because there are SO many subsidiary projects or teams and every acquisition just makes this even more complicated. The most visible teams to the lay person are:
 
