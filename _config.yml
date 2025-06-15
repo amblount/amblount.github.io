@@ -29,9 +29,15 @@ google_analytics:
 google_ad_client: ca-pub-3175504123970367
 
 # Build settings
-theme: pages-themes/minimal
+remote_theme: pages-themes/leap-day@v0.2.0   # ← points to the Leap Day repo & tag
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme                      # required so GH Pages can fetch the theme
+
+#### changing the theme... 
+##theme: pages-themes/minimal
+##plugins:
+##  - jekyll-feed
   
 # Include posts
 include: _posts
