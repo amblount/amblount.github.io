@@ -109,6 +109,26 @@ Read more about this experience [here](https://amblount.github.io/unpackingwork/
 - Import.AT  
 
 ### EDUCATION
+I had some timme so I explained my PUBLIC educational experiences. As a girl who attended BUSD [Berkeley Unified School District] I am proud. I thihnk I could have excelled in private school but I loved my experience in public school. If you care to learn more about that please watch the video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2LmZfIJJSOY?si=Y6WX2J4Ui5cp4oEz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - High School Diploma, General Studies | Berkeley High School, Berkeley CA
+
+Berkeley High was cerainly an experience for me. I had some great moments there and I learned a LOT of lessons. We will unpack some of those at another time, but for now if interested you can start here. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SkCeOCdreB4?si=h432EUfOifyBungU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Associates Degree, Allied Health | Berkeley City College, Berkeley CA
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/UisWSBnJHvE?si=ROIbBBYQwxr0k3-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I thought I wanted to be a nurse because he path to becoming a radiologist was takinng a bit too long and I waanted to move things along. Pre-Nursing isn't EASY, human anatomy, microbiology, and human physiology were some of the most challenging classes I EVER took. I did ACE them, but still very hard.
+
+I also learned a TON about why I might NOT waant to go to medical school.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W4n4dc5bglY?si=noeI5rP9ypw8vt9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - BSc, Computer Science (INC) | University of California, Davis, Davis, CA
+
+Interesting story and I will certainly take MORE time to tell it, but I like to start from somewhere.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gUj00hAelR4?si=pQe7NJ7-rQDEQ7Ae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
