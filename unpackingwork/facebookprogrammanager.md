@@ -23,16 +23,37 @@ We will come back to meaningful engagement becacuse it is a really important are
 
 What was the impact of this project or team in relation to the company? 
 
+DEVELOPER CIRCLES - THE CONTENT MANAGEMENT SYSTEM [PRODUCT]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c6MsSNpoKAQ?si=FVeqFQt0U6CV_mG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 What did I work on? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zc3RNH6PACU?si=oGOJ6v5JuNz6oYQe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Who did I work with? 
 
+1. Terrell... 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJTFmkz6L98?si=W4O1eDrCOjHRk_Pe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 What assumption did I make coming in? 
+
+I didn't know anything about the team the company or the dashbooards but I knew a LOT about content management systems and personalized learning. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoLMPWjdKPc?si=2pT1Clg9me7R7BfC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 What technology or tools did I use? 
 
+Dashboards
+
 What hurdles did this team face? 
 
+Understanding meaningful engagement
+
 What was the outcome of the project? 
+
+I got to go to Africa, Matt waas upset that he did not get all of the credit for his grand scheme idea and I went to the NYT. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XufP0JzhCSI?si=jMD3o_Uj3GzzeZLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 What external courses or educational resources did I use to skill up? 
