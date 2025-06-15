@@ -4,9 +4,36 @@
 
 Currently I don't know much from first hand experience, but over the last I would say 4 years, I have been gathering data and interviewing Habesha people to learn more. 
 
+Back when I was living in the Bay Area, California there was an Ethiopian restaurant The Blue Nile and this was one of my first experienes with the culture and it was great. It my first experience with coffee culture and that was a bit sad. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rOv9ZJ30P4w?si=_V8kcGQMitJlcZq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Why do I care?
 
 My father is Ethiopian and I think it is VERY important for me to understand more about my relationship to Africa given how critical my race has been to my lived experience. I have NEVER felt American and I have known for a long time America is NOT the country for me so I have been trying to connect with Ethiopica to live and work there. There seem to be many challenges on the continent like Internet, water, banking, farming, trade -- everything, but I would like to take myself and my skills there to improve the situation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0nFhUrFe1U?si=c8OdeShSTVfCIgqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Habesha Explloration Series
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g13_usbl_Wc?si=IXONfdiZOZJA3Jr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I created a pet project - the habesha exploration series, which is just a collection of short videos which introduce habesha women to those unfamiliar. I wish that when I was more interested in te culture I had the list to refer to so that I could follow the women presented and learn more about the culture. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=-qh5D83pJril2CgA&amp;list=PL3N---Q2Syf4uQAfOBSGZdf0SOozHEHFV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+1. [Lud Sunny]()
+2. [Helen Gedlu]()
+3. [Ephrizzy]()
+4. [Haben]()
+5. [Redeat]()
+6. [Liya Kebede]()
+7. [Mona Tougaard]()
+8. [Rozina Kahsay]()
+9. [Ruth B]()
+10. [International Betty]()
+11. [Lillian Tsseggi]()
+12. [Segen]()
 
 ### Resources
 Bloggers have been the most useeful resource for me given many live in Ethiopia and are sharing information about the cost of living and the culture there.
