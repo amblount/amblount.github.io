@@ -17,6 +17,10 @@ In my case I joined a team working specifically on Developer Circles which were 
 
 We will come back to meaningful engagement becacuse it is a really important areea of research for the online groups platform and for my team.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dvtHYESw_1o?si=hfhCVCPKA8q9TnFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzwH8zQDBkw?si=4t8cMyZ8TGmAF09B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 What was the impact of this project or team in relation to the company? 
 
 What did I work on? 
