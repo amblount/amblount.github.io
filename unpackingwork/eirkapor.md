@@ -1,8 +1,11 @@
-# Entrepreneur In Residence | Kapor Center |	Oakland, CA 	|		2017
+# Entrepreneur In Residence 
+## Kapor Center Oakland, CA 	|		2017
 
-<img src="/images/kaporcenter.jpg" width="600"/>
+<img src="/images/kaporcenter.JPG"/>
 
  - What team or product did I work on?
+
+ - 
   - What was the impact of this project or team in relation to the company?
   - What did I work on?
   - Who did I work with?
